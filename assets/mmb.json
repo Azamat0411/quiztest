@@ -1,0 +1,1795 @@
+{
+  "test": [
+    {
+      "question": "Malumotlar bazasi –",
+      "answer": [
+        "Bu ko'rib chiqilayotgan mavzu sohasidagi ob'ektlarning holati va ularning munosabatlarini aks ettiruvchi nomli ma'lumotlar to'plami.",
+        "axborot tizimining dasturiy ta'minoti",
+        "ob'ektlarning tartiblangan to'plami va ularning xususiyatlari",
+        "mavzu bo'yicha ma'lumotlar to'plash"
+      ]
+    },
+    {
+      "question": "Ma'lumotlar banki -",
+      "answer": [
+        "bu maxsus tashkil etilgan ma'lumotlar tizimi, dasturiy ta'minot, til , tashkiliy va texnik vositalar markazlashtirilgan to'plash va ma'lumotlardan jamoaviy ko'p maqsadli foydalanish uchun mo'ljallangan .",
+        "ma'lumotlar bazasi to'plami",
+        "ko'rib chiqilayotgan mavzu sohasidagi nomli ma'lumotlar to'plami",
+        "ma'lumotlar bazasiga so'rovlar va amaliy dasturlar to'plami"
+      ]
+    },
+    {
+      "question": "DBMS -",
+      "answer": [
+        "bu koʻplab foydalanuvchilar bilan maʼlumotlar bazasini yaratish, saqlash va almashish uchun moʻljallangan til va dasturiy vositalar toʻplami",
+        "ma'lumotlar bazasi interfeysi",
+        "dasturiy ta'minot",
+        "texnik vositalar"
+      ]
+    },
+    {
+      "question": "Mantiqiy tuzilish -",
+      "answer": [
+        "bular jadval maydonlari, segmentlar, kengaytmalar va ma'lumotlar bloklari.",
+        "ma'lumotlar bazasi interfeysi",
+        "dasturiy ta'minot",
+        "texnik vositalar"
+      ]
+    },
+    {
+      "question": "DBMS ning asosiy vazifasi",
+      "answer": [
+        "Ma'lumotlar so'rovlarini optimallashtirish",
+        "Samarali tashqi xotira boshqaruvi",
+        "Ma'lumotlarga kirishni tashkil etish",
+        "Zaxiralash va tiklash"
+      ]
+    },
+    {
+      "question": "Ko'rib chiqilayotgan predmet sohasidagi ob'ektlarning holati va ularning munosabatlarini aks ettiruvchi nomlangan ma'lumotlar to'plami nima deyiladi",
+      "answer": [
+        "malumotlar bazasi",
+        "ma'lumotlar oqimi",
+        "DBMS",
+        "ma'lumotlar bazasi to'plami"
+      ]
+    },
+    {
+      "question": "Jismoniy tuzilma o'z ichiga oladi...",
+      "answer": [
+        "ma'lumotlar fayllari, boshqaruv fayllari va operatsion jurnallar",
+        "segmentlar, kengaytmalar va ma'lumotlar bloklari.",
+        "fayllar va onlayn jurnallarni boshqarish",
+        "nazorat fayllari va onlayn jurnallar, kengaytmalar"
+      ]
+    },
+    {
+      "question": "DBMS jadval qatori quyidagilarni o'z ichiga oladi:",
+      "answer": [
+        "Muayyan ob'ekt haqida ma'lumot",
+        "bir xil turdagi ob'ektlar to'plami haqida ma'lumot",
+        "ma'lum bir predmet sohasiga tegishli barcha ob'ektlarning yig'indisi to'g'risidagi ma'lumotlar",
+        "jadval ma'lumotlari"
+      ]
+    },
+    {
+      "question": "Relyatsion ma'lumotlar bazasi (MB) fayl yozuvi o'z ichiga olishi mumkin.",
+      "answer": [
+        "eksklyuziv bir hil ma'lumotlar (faqat bir turdagi ma'lumotlar);",
+        "faqat matnli ma'lumotlar;",
+        "heterojen ma'lumotlar (turli turdagi ma'lumotlar);",
+        "faqat mantiqiy qiymatlar;"
+      ]
+    },
+    {
+      "question": "DBMSga nimalar kiritilishi kerak?",
+      "answer": [
+        "so'rovlar tili protsessori",
+        "buyruq interfeysi",
+        "vizual qobiq",
+        "yordam tizimi"
+      ]
+    },
+    {
+      "question": "Mavjud ma'lumotlar bazasida yangi jadval yaratish uchun quyidagi buyruqdan foydalaning:",
+      "answer": [
+        "JADVAL YARATING",
+        "YANGI JADVOL",
+        "JADVOL TUZISH",
+        "JADVAL QO'RISH"
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasini ierarxik, tarmoqli, relyatsion toifalarga bo'lish belgisi?",
+      "answer": [
+        "ishlatilgan ma'lumotlar modeli turi",
+        "axborot shakli",
+        "saqlangan ma'lumotlar turi",
+        "saqlash topologiyasi"
+      ]
+    },
+    {
+      "question": "Axborotni saqlashning har bir birligi cheklangan atributlar to'plami sifatida ifodalanishi mumkin bo'lgan ma'lumotlar deyiladi?",
+      "answer": [
+        "yaxshi tuzilgan",
+        "erkin tuzilgan",
+        "qisman tuzilgan",
+        "tuzilmagan"
+      ]
+    },
+    {
+      "question": "OLAP tipidagi tizimlar quyidagi qaysi faoliyatni qo'llab-quvvatlashga xizmat qiladi?",
+      "answer": [
+        "Operativ",
+        "Analitik",
+        "Taktik",
+        "strategik"
+      ]
+    },
+    {
+      "question": "Modellarni ishlab chiqish tartibida joylashtiring:",
+      "answer": [
+        "Infologik model",
+        "Datalogik model",
+        "Jismoniy model",
+        "Fizik va datalogik model"
+      ]
+    },
+    {
+      "question": "Relyatsion algebraning binar operatsiyasi hisoblanmaydi?",
+      "answer": [
+        "Proyeksiya",
+        "Farq",
+        "Dekart mahsuloti",
+        "Bo'lim"
+      ]
+    },
+    {
+      "question": "Shaxslar jadvalidan barcha qiymatlarni olish uchun so'rov quyidagicha ko'rinadi:",
+      "answer": [
+        "TANLASH * Shaxslardan",
+        "HAMMA Shaxslarni TANLASH",
+        "TANLASH. [ Shaxslar ]",
+        "dan * dan tanlang"
+      ]
+    },
+    {
+      "question": "Munosabatlar ustidagi har qanday operatsiya natijasi...",
+      "answer": [
+        "Munosabat",
+        "Xususiyat",
+        "Aloqa",
+        "stol"
+      ]
+    },
+    {
+      "question": "Relyatsion hisob - bu",
+      "answer": [
+        "ma'lumotlar bazasidagi bir yoki bir nechta munosabatlardan yaratilgan munosabatlar ta'rifini shakllantirish uchun ishlatilishi mumkin bo'lgan protsessual bo'lmagan til",
+        "Ma'lumotlar bazasida saqlangan bir yoki bir nechta munosabatlardan yangi munosabatlarni qurish uchun DBMS tomonidan ishlatilishi mumkin bo'lgan yuqori darajadagi protsessual til",
+        "ma'lumotlar bazasida saqlangan bir yoki bir nechta munosabatlardan munosabatlarni tavsiflash uchun DBMSda ishlatilishi mumkin bo'lgan past darajadagi protsessual til",
+        "ma'lumotlar bazasida saqlanadigan munosabatlar hisobi"
+      ]
+    },
+    {
+      "question": "Berilgan diapazondagi qiymatlarni tanlash uchun qaysi operator ishlatiladi?",
+      "answer": [
+        "BETWEEN",
+        "WITHIN",
+        "IN",
+        "AND"
+      ]
+    },
+    {
+      "question": "Shaxslar jadvalidagi yozuvlar sonini hisoblash uchun quyidagi buyruqdan foydalaning:",
+      "answer": [
+        "Shaxslardan COUNT(*) TANI TANlang",
+        "Shaxslar ichida COUNT QATIR",
+        "Shaxslardan Qatorlarni TANLASH",
+        "Shaxslardan TANLASH"
+      ]
+    },
+    {
+      "question": "Birlashmaning eng keng tarqalgan turi:",
+      "answer": [
+        "ICHKI QO'SHILING",
+        "TO'LIQ QO'SHILING",
+        "CHAPGA QO'SHILING",
+        "O'RTA QO'SHILING"
+      ]
+    },
+    {
+      "question": "ism ___ Xodimlar QAYERDA ___ 35 VA 50 yosh so'rovi yoshi 35 dan 50 yoshgacha bo'lgan xodimlarning ismlarini qaytaradi.  Bo’sh joylarni to’ldiring.",
+      "answer": [
+        "DAN, ORASIDA",
+        "INTO, INTO",
+        "FROM, IN",
+        "INTO, ORASIDA"
+      ]
+    },
+    {
+      "question": "Yig‘indini hisoblash uchun qaysi agregat funksiyadan foydalaniladi?",
+      "answer": [
+        "SUM",
+        "AVG",
+        "COUNT",
+        "MAX"
+      ]
+    },
+    {
+      "question": "Foydalanuvchilar jadvalidan dastlabki 14 ta yozuvni olish uchun so'rov bu...?",
+      "answer": [
+        "TANLASH * foydalanuvchilar LIMIT 14",
+        "FOYDALANUVCHILARDAN * LIMIT 14 tani tanlang",
+        "FOYDALANUVCHILARDAN * TANLANG",
+        "dan * dan tanlang"
+      ]
+    },
+    {
+      "question": "To'g'ri bayonotni tanlang:",
+      "answer": [
+        "SQL so'rovlarni yozishda jadval nomlarida katta-kichik harflarga sezgir",
+        "So'rovlarni yozishda SQL katta-kichik harflarga sezgir",
+        "SQL katta harflarni sezmaydi",
+        "SQL so'rovlari jadvallarga sezgir"
+      ]
+    },
+    {
+      "question": "Country FROM __ _ so'rovidagi bo'sh joylarni to'ldiring, bu mijozlarning ismlarini va Mijozlar jadvalidan ularning yashash mamlakatini qaytaradi .",
+      "answer": [
+        "Ism, mijozlar",
+        "Xaridorlar",
+        "null, mijozlar",
+        "Ism"
+      ]
+    },
+    {
+      "question": "ID=8 boʻlgan mamlakatdan tashqari Davlatlar jadvalidagi barcha qiymatlarni qaytaruvchi soʻrov quyidagicha koʻrinadi:",
+      "answer": [
+        "ID !=8 DAVLATLARDAN #TANLASH",
+        "EXP ID=8 DAVLATLARDAN * TANLASH",
+        "HAMMANI DAVLATLARDAN TANLASH LIMIT 8",
+        "CHEGIRMA 8- mamlakatlardan * TANLANING"
+      ]
+    },
+    {
+      "question": "Mijozlar jadvalidan maʼlumotlarni olish uchun soʻrov yozing , bunda mijozning Toshkent shahridagi yashash joyi sharti.",
+      "answer": [
+        "City=\"Toshkent\" dagi mijozlardan * TANGLA",
+        "Mijozlardan City=\"Toshkent\" ni tanlang",
+        "Mijozlarni TANLASH QAYERDA City=\"Toshkent\"",
+        "QAYERNI TANLASH Shahar =\"Toshkent\""
+      ]
+    },
+    {
+      "question": "Ism, familiya va tug'ilgan sanalarini qaytaradigan so'rovni yozing ( Xodimlar jadvali ). Holati bor _ familiyalar o'z ichiga olgan \"se\" birikmasi .",
+      "answer": [
+        "Xodimlardan familiyasi, familiyasi, tug'ilgan sanasini tanlang, masalan, “%se%”",
+        "Xodimlardan ism, familiya, tug'ilgan sanani TANLASH QAYERDA Familiya = \"se\"",
+        "\"_se_\" kabi familiyani QAYoQI Xodimlardan * TANlang",
+        "\"_se_\" kabi familiyani QAYoQI Xodimlardan * TANlang"
+      ]
+    },
+    {
+      "question": "Qaysi funksiya tanlangan ustundagi barcha harflarni bosh harfga aylantirish imkonini beradi?",
+      "answer": [
+        "YUQORI",
+        "TOP",
+        "UP",
+        "IN"
+      ]
+    },
+    {
+      "question": "Xodimlar jadvalidagi Familiya ustunini Familiyaga o'zgartirish uchun so'rov yozing .",
+      "answer": [
+        "ALTER TABLE Xodimlar Familiyasini O'zgartirdi Familiya varchar(50)",
+        "Familiyani Xodimlardan Familiyaga O'zgartiring",
+        "JADVALNI Xodimlardan familiyasini (familiyasini) ALTER",
+        "ALTER TABLE Familiya ( familiya )"
+      ]
+    },
+    {
+      "question": "Oldingi SQL so'rovi natijalariga asoslangan yangi virtual jadval yaratish uchun quyidagi buyruqdan foydalaning:",
+      "answer": [
+        "KO'RISH YARATISH ",
+        "VIRTUAL JADVAL YARATING",
+        "KOʻRISHNI ALTER",
+        "JADVAL ALTER"
+      ]
+    },
+    {
+      "question": "Xodimlar \" jadvalida xodimlarning ismlari, familiyalari va ish haqi to'g'risidagi ma'lumotlar mavjud. ID=7 bo'lgan xodim uchun ish haqi qiymatini 2000 dan 2500 gacha o'zgartiradigan so'rov yozing.",
+      "answer": [
+        "YANGILANISh Xodimlar SET ish haqi=2500 QERDA ID=7",
+        "SET ish haqi=2500 dan ish haqi=2000 ID=7 Xodimlardan",
+        "ALTER TABLE Xodimlar ish haqi = ID = 7 UCHUN 2500",
+        "JADVAL YARATISH Xodimlar ish haqi=2500 ID=7"
+      ]
+    },
+    {
+      "question": "Foydalanuvchilar so'rovini bajarish natijasi qanday ?",
+      "answer": [
+        "Foydalanuvchilar \" ma'lumotlar bazasini butunlay o'chirib tashlang",
+        "Foydalanuvchilar \" ma'lumotlar bazasiga o'zgartirish kiritishni blokirovka qiling",
+        "Foydalanuvchilar \" jadvalini o'chirish",
+        "Jadvalni o'chirish"
+      ]
+    },
+    {
+      "question": "Hayvonot bog'i ma'lumotlar bazasidagi Hayvonlar jadvalida u erda yashovchi barcha hayvonlar, shu jumladan tulkilar haqida ma'lumotlar mavjud: qizil tulki , kulrang tulki , kichkina tulki . Tulkilarning yoshi haqida ma'lumot beradigan so'rov yozing.",
+      "answer": [
+        "Yoshni \"%fox\" kabi hayvonlardan tanlang.",
+        "% tulkini tanlang Hayvonlardan yoshi _",
+        "Yoshni %Fox.Animals dan tanlang",
+        "FROM %tulki yoshi ni tanlang"
+      ]
+    },
+    {
+      "question": "Nima qaytadi so'rov Xodimlardan Ism, Familiya, Ish haqini TANLASH Qayerda ish haqi< (Xodimlardan AVG(Ish haqi) ni tanlang) Ish haqi DESC BO'YICHA TARTIB BERISh?",
+      "answer": [
+        "Ish haqi o'rtachadan past bo'lishi sharti to'g'ri bo'lgan xodimlarning ismlari, familiyalari va maoshlari, ish haqini kamayish tartibida tartiblash bilan ",
+        "Qiymati barcha xodimlarning o'rtacha qiymatiga to'g'ri keladigan xodimlarning ismlari, familiyalari va maoshlari",
+        "Xodimlarning ismlari, familiyalari va ularning butun ish davri uchun o'rtacha ish haqi, kamayish tartibida tartiblangan",
+        "Jadval va chiqishdagi ma'lumotlarni saralaydi"
+      ]
+    },
+    {
+      "question": "Foydalanuvchilar jadvalining FirstName ustunidan qiymatlarni qaytaradigan so'rovni yozing .",
+      "answer": [
+        "Foydalanuvchilardan Ismni tanlang",
+        "FirstName.Users ni tanlang",
+        "FROM Users.FirstName * ni tanlang",
+        "dan * dan tanlang"
+      ]
+    },
+    {
+      "question": "Moskva, Tbilisi, Lvov shaharlaridan birida yashovchi mijozlar haqida ma'lumot beradigan so'rovni yozing.",
+      "answer": [
+        "Shahardagi mijozlardan * TANLANG ('Moskva', 'Tbilisi', 'Lvov')",
+        "Mijozlardan Moskva, Tbilisi, Lvovni TANlang",
+        "Mijozlardan shaharni TANLASH (\"Moskva\", \"Tbilisi\", \"Lvov\")",
+        "SELECT IN SHAHRI ('Moskva', 'Tbilisi', 'Lvov')"
+      ]
+    },
+    {
+      "question": "So'rov natijalarini dublikatlarni o'chirmasdan birlashtirish uchun qaysi buyruq ishlatiladi?",
+      "answer": [
+        "UNION ALL ",
+        "UNION",
+        "FULL JOIN",
+        "JOIN"
+      ]
+    },
+    {
+      "question": "REVOKE bayonoti quyidagilar uchun:",
+      "answer": [
+        "Foydalanuvchi yoki foydalanuvchilar guruhidan avval berilgan ruxsatlarni bekor qilish ",
+        "Foydalanuvchi yoki foydalanuvchilar guruhiga muayyan operatsiyalarni bajarish huquqini berish;",
+        "Foydalanuvchi yoki foydalanuvchilar guruhiga ruxsatdan ustun turadigan taqiqni belgilash;",
+        "Foydalanuvchilar guruhi yoki foydalanuvchilar"
+      ]
+    },
+    {
+      "question": "Taxalluslar nima uchun ishlatiladi ?",
+      "answer": [
+        "Ifodadan maʼlumot manbai sifatida foydalanilganda soʻrovda maʼlumotlar manbasiga nom berish yoki soʻrovlar tuzilishini soddalashtirish",
+        "Maydonlarni qayta nomlash uchun",
+        "Ma'lumotlar manbasini aniqroq ko'rsatish uchun, agar ma'lumotlar bazasida bir xil maydon nomlari bo'lgan jadvallar mavjud bo'lsa",
+        "Maydonlarni o'chirish"
+      ]
+    },
+    {
+      "question": "Mamlakatlar jadvalidan shahar qiymatlarini qaytaradigan so'rov yozing .",
+      "answer": [
+        "ID=“Shahar” QAYoDDAGI DAVLATLARDAN * TANLASH",
+        "Shaharni tanlang. Mamlakatlar",
+        "FROM dan tanlang",
+        "Mamlakatlardan shaharni tanlang"
+      ]
+    },
+    {
+      "question": "So'rov elementlari mavjud: 1. ORDER BY BY Name; 2. QAYERDA Yoshi < 19; 3. Talabalardan; 4. Ism, Familiyani tanlang. 19 yoshgacha bo'lgan o'quvchilarning ism va familiyalarini ismlari bo'yicha saralash uchun ularni qanday tartibda joylashtirish kerak?",
+      "answer": [
+        "4, 3, 2, 1",
+        "1, 4, 2, 3",
+        "4, 2, 3, 1",
+        "1, 2, 3, 4"
+      ]
+    },
+    {
+      "question": "Nima uchun PRIVILEGUE bayonoti SQL da ishlatiladi?",
+      "answer": [
+        "Ushbu operator mavjud emas ",
+        "Superuserga administrator huquqlarini berish",
+        "Foydalanuvchilarni tanlash va keyin ularga muayyan huquqlar to'plamini berish",
+        "Jadvallarni ko'rish"
+      ]
+    },
+    {
+      "question": "Joriy sanani qaytaradigan so'rovni yozing.",
+      "answer": [
+        "SELECT GetDate()",
+        "Bugun sanani tanlang()",
+        "Sana TANLASH(Bugun)",
+        "Sana TANLASH"
+      ]
+    },
+    {
+      "question": "Berilgan diapazondagi qiymatlarni tanlash uchun qaysi operator ishlatiladi?",
+      "answer": [
+        "ORASIDA",
+        "ICHDA",
+        "IN",
+        "VA"
+      ]
+    },
+    {
+      "question": "Relyatsion ma'lumotlar bazasi o'rtasidagi asosiy farq:",
+      "answer": [
+        "ma'lumotlar munosabatlar sifatida tashkil etilgan",
+        "qat'iy daraxt tuzilishi",
+        "grafiklar shaklida taqdim etiladi",
+        "ierarxik tuzilma"
+      ]
+    },
+    {
+      "question": "DB fayl kengaytmasi:",
+      "answer": [
+        ".mdb, .db",
+        ".f2",
+        ".mcs",
+        ".doc"
+      ]
+    },
+    {
+      "question": "Null so'zi quyidagi  qaysi ma'noda ishlatiladi:",
+      "answer": [
+        "aniqlanmagan qiymatlar",
+        "bo'sh qiymatlar",
+        "nol",
+        "bo'sh bo'lmagan qiymat"
+      ]
+    },
+    {
+      "question": "Bir nechta atributlardan iborat kichik sxema uchun indeks deyiladi bu..?",
+      "answer": [
+        "Oʻchirish",
+        "Kiritmoq",
+        "yangilash",
+        "tomonidan buyurtma"
+      ]
+    },
+    {
+      "question": "Jadvalga qator qo'shish uchun qanday so'rovdan foydalanish mumkin?",
+      "answer": [
+        "Kiritmoq",
+        "Oʻchirish",
+        "Qoldirish",
+        "Jadvalni o'zgartirish"
+      ]
+    },
+    {
+      "question": "Jadvalga ustun qo'shish uchun qanday so'rovdan foydalanish mumkin?",
+      "answer": [
+        "Jadvalni o'zgartirish",
+        "Oʻchirish",
+        "yangilash",
+        "Kiritmoq"
+      ]
+    },
+    {
+      "question": "Jadvaldagi ma'lumotlarni yangilash uchun qanday so'rovdan foydalanish mumkin?",
+      "answer": [
+        "Yangilanish",
+        "Kiritmoq",
+        "Oʻchirish",
+        "Jadval yaratish"
+      ]
+    },
+    {
+      "question": "Jadvaldagi ma'lumotlarni saralash uchun qanday so'rovdan foydalanish mumkin?",
+      "answer": [
+        "Buyurtma",
+        "Orasida",
+        "Qayerda",
+        "Kabi"
+      ]
+    },
+    {
+      "question": "BLOB ma'lumotlar turi -",
+      "answer": [
+        "U tasvirlar, audio va videolarni, shuningdek tuzilgan dastur kodini saqlash uchun ishlatiladigan ikkilamchi formatda maʼlumotlarni saqlaydi.",
+        "Katta belgilar ob'ekti ( belgi katta ob'ekt ). Matn ma'lumotlarini JB formatida saqlang",
+        "Milliy belgilar to'plami - Katta ob'ekt ( Milliy xarakter o'rnatish katta ob'ekt ). Matn ma'lumotlarini milliy kodlashda saqlaydi.",
+        "Tashqi ikkilik fayl (tashqi ikkilik fayl)"
+      ]
+    },
+    {
+      "question": "CLOB ma'lumotlar turi -",
+      "answer": [
+        "Katta belgilar obyekti ( belgi Katta ob'ekt ). Matn ma'lumotlarini JB formatida saqlang ",
+        "U ikkita formatda ma'lumotlarni saqlaydi, tasvirlar, audio va videolarni, shuningdek, kompilyatsiya qilingan dastur kodini saqlash uchun ishlatiladi.",
+        "Milliy belgilar to'plami - Katta ob'ekt ( Milliy xarakter o'rnatish Katta ob'ekt ). Matn ma'lumotlarini milliy kodlashda saqlaydi.",
+        "Tashqi ikkilik fayl (tashqi ikkilik fayl)"
+      ]
+    },
+    {
+      "question": "NCLOB ma'lumotlar turi -",
+      "answer": [
+        "Milliy belgilar to'plami - katta ob'ekt ( Milliy xarakter o'rnatish Katta ob'ekt ). Matn ma'lumotlarini milliy kodlashda saqlaydi.",
+        "U ikkita formatda ma'lumotlarni saqlaydi, tasvirlar, audio va videolarni, shuningdek, kompilyatsiya qilingan dastur kodini saqlash uchun ishlatiladi.",
+        "Katta belgilar ob'ekti ( belgi Katta ob'ekt ). Matn ma'lumotlarini JB formatida saqlang",
+        "Tashqi ikkilik fayl (tashqi ikkilik fayl)"
+      ]
+    },
+    {
+      "question": "BFILE ma'lumotlar turi -",
+      "answer": [
+        "Tashqi _ ikkilik fayl (tashqi ikkilik fayl)",
+        "U ikkita formatda ma'lumotlarni saqlaydi, tasvirlar, audio va videolarni, shuningdek, kompilyatsiya qilingan dastur kodini saqlash uchun ishlatiladi.",
+        "Katta belgilar ob'ekti ( belgi Katta ob'ekt ). Matn ma'lumotlarini JB formatida saqlang",
+        "Milliy belgilar to'plami - Katta ob'ekt ( Milliy xarakter o'rnatish Katta ob'ekt ). Matn ma'lumotlarini milliy kodlashda saqlaydi."
+      ]
+    },
+    {
+      "question": "Ma'lumotlarni tanlash so'rovlarini yaratish uchun SQL iborasini nomlang",
+      "answer": [
+        "Tanlash _",
+        "Aniq",
+        "Qayerda",
+        "ega"
+      ]
+    },
+    {
+      "question": "Ortiqcha qiymatlarni yo'q qilish qobiliyatini ta'minlovchi Select buyrug'i bayonotiga nom bering.",
+      "answer": [
+        "Buyurtma berish",
+        "Alohida",
+        "Qayerda",
+        "ega"
+      ]
+    },
+    {
+      "question": "Shartning haqiqatiga qarab ma'lumotlarni tanlash imkonini beruvchi Tanlash buyrug'ining jumlasini nomlang.",
+      "answer": [
+        "Qayerda ",
+        "Buyurtma berish",
+        "Aniq",
+        "ega"
+      ]
+    },
+    {
+      "question": "Maydondagi qiymatlar guruhini boshqa maydon nuqtai nazaridan belgilaydigan va unga agregat funktsiyasini qo'llaydigan buyruqni nomlang.",
+      "answer": [
+        "Guruh boʻyicha ",
+        "Buyurtma berish",
+        "Aniq",
+        "Qayerda"
+      ]
+    },
+    {
+      "question": "So‘rov natijasini saralash uchun foydalaniladigan Select buyrug‘ining bandiga nom bering.",
+      "answer": [
+        "Buyurtma berish",
+        "Aniq",
+        "Qayerda",
+        "ega"
+      ]
+    },
+    {
+      "question": "Quyidagi belgilar =, <>, <= , > =, <, > qaysi  operatorlariga tegishli?",
+      "answer": [
+        "Relational operatorlar",
+        "Mantiqiy operatorlar",
+        "Maxsus operatorlar",
+        "Agregat funktsiyalari"
+      ]
+    },
+    {
+      "question": "AND, OR, NOT operatorlari qaysi operatorlarga murojaat qiladi?",
+      "answer": [
+        "Mantiqiy operatorlar ",
+        "aloqa operatorlari",
+        "Maxsus operatorlar",
+        "Agregat funktsiyalari"
+      ]
+    },
+    {
+      "question": "Ma'lumotlar turi nomi bo'lgan variantni tanlang",
+      "answer": [
+        "Barcha variantlar to'g'ri ",
+        "Ramziy",
+        "Raqamli",
+        "Sana vaqti"
+      ]
+    },
+    {
+      "question": "Sana va vaqt konstantalari qanday ma'lumotlar turi?",
+      "answer": [
+        "string",
+        "Raqamli",
+        "Pul",
+        "suzuvchi nuqta raqami"
+      ]
+    },
+    {
+      "question": "Taklif etilgan nomlar orasida agregat funktsiya nomi bo'lganini tanlang",
+      "answer": [
+        "Barcha variantlar to'g'ri",
+        "COUNT",
+        "SUM",
+        "AVG"
+      ]
+    },
+    {
+      "question": "Agregat funktsiyalardan qaysi biri faqat raqamli maydonlardan foydalanadi?",
+      "answer": [
+        "SUM, AVG",
+        "COUNT, SUM",
+        "MAX, MIN",
+        "AVG, MAX, MIN"
+      ]
+    },
+    {
+      "question": "Agar munosabatning barcha atributlari oddiy bo'lsa (bitta qiymatga ega bo'lsa), u holda munosabat...?",
+      "answer": [
+        "Birinchi oddiy shaklda",
+        "Ikkinchi normal shaklda",
+        "Uchinchi normal shaklda",
+        "To'rtinchi normal shaklda"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarni taqdim etish modeli bu...?",
+      "answer": [
+        "Ma'lumotlar bazasida saqlanadigan ma'lumotlarning mantiqiy tuzilishi",
+        "Ma'lumotlar bazasida saqlanadigan ma'lumotlarning jismoniy tuzilishi",
+        "Ma'lumotlarning ierarxik tuzilishi",
+        "tarmoq ma'lumotlar tuzilishi"
+      ]
+    },
+    {
+      "question": "Eng ko'p ishlatiladigan (ko'p ma'lumotlar bazalarida) ma'lumotlar modeli...?",
+      "answer": [
+        "Munosabatlar modeli",
+        "tarmoq ma'lumotlar modeli",
+        "Ma'lumotlarning ierarxik modeli",
+        "E'lonlar ro'yxati tizimlari"
+      ]
+    },
+    {
+      "question": "DBMS arxitekturasi darajasida bo'lmagan javob variantini nomlang",
+      "answer": [
+        "Jismoniy qatlam",
+        "ichki daraja",
+        "Tashqi daraja",
+        "Kontseptual daraja"
+      ]
+    },
+    {
+      "question": "Relyatsion ma'lumotlarni taqdim etish modeli - foydalanuvchi uchun ma'lumotlar shaklda uzatiladi bu?",
+      "answer": [
+        "Jadval",
+        "Roʻyxatlar",
+        "Daraxt turi grafigi",
+        "Ixtiyoriy grafik"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarni taqdim etishning ierarxik modeli - ma'lumotlar shaklda taqdim etiladi bu...?",
+      "answer": [
+        "tartibli grafik ",
+        "jadvallar,",
+        "Roʻyxatlar",
+        "Ixtiyoriy grafik"
+      ]
+    },
+    {
+      "question": "Relyatsion ma'lumotlarni taqdim etish modelining tamoyillari tomonidan asos solingan",
+      "answer": [
+        "Codd",
+        "fon Neumann",
+        "Turing",
+        "Paskal"
+      ]
+    },
+    {
+      "question": "Jadvallar orasidagi aloqa",
+      "answer": [
+        "Jadval qatori ",
+        "Munosabatlar korteji",
+        "Jadval ustuni",
+        "Jadval"
+      ]
+    },
+    {
+      "question": "Bitta atribut yoki qiymatlari bir vaqtning o'zida bir xil bo'lmagan bir nechta atributlarning minimal to'plami, ya'ni ular jadval yozuvini yagona belgilaydi - bu",
+      "answer": [
+        "Asosiy kalit",
+        "Tashqi kalit",
+        "Indeks",
+        "Aloqa darajasi"
+      ]
+    },
+    {
+      "question": "Jadvaldagi yozuvlarni qidirish operatsiyasini va shunga mos ravishda qidiruvdan foydalangan holda boshqa operatsiyalarni tezlashtirish vositalari deyiladi.",
+      "answer": [
+        "Indeks",
+        "Xesh kodi",
+        "asosiy kalit",
+        "Tashqi kalit"
+      ]
+    },
+    {
+      "question": "Jadvaldan foydalansa, indekslangan deb ataladi bu...?",
+      "answer": [
+        "Indeks",
+        "Xesh kodi",
+        "asosiy kalit",
+        "Tashqi kalit"
+      ]
+    },
+    {
+      "question": "Ba'zi kortejlarni boshqalarning qiymati bo'yicha qidirishga imkon beradigan o'zaro bog'langan munosabatlar to'plami  nima deyiladi.",
+      "answer": [
+        "Relational ma'lumotlar bazasi",
+        "pre-relational ma'lumotlar bazasi",
+        "Post-relyatsion ma'lumotlar bazasi",
+        "Yuqoridagilarning barchasi"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir momentida A munosabatining har bir elementi (tuple) B munosabatining 0 yoki 1 kortejiga mos kelsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "Birma-bir muloqot ",
+        "Ulanish yo‘q",
+        "Birdan ko'pga munosabat",
+        "Ko'pchilik bir aloqa"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir momentida A munosabat kortejlari to‘plami B munosabatlarning bir kortejiga mos kelsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "Ko'pchilik bir kishiga munosabat ",
+        "Ulanish yo‘q",
+        "Birga bir muloqot",
+        "Birdan ko'pga munosabat"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir momentida bitta A munosabat korteji B munosabatlarning bir nechta kortejiga mos kelsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "Birdan ko'pga munosabat ",
+        "Ulanish yo‘q",
+        "Birga bir muloqot",
+        "Ko'pchilik bir aloqa"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir momentida A munosabat kortejlari to‘plami B munosabat kortejlari to‘plamiga mos kelsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "Ko'pdan ko'pga munosabat",
+        "Ulanish yo‘q",
+        "Birga bir muloqot",
+        "Birdan ko'pga munosabat"
+      ]
+    },
+    {
+      "question": "Quyidagi aloqa turlaridan qaysi  biri relyatsion  DBMSda  bevosita qo'llab-quvvatlanmaydi?",
+      "answer": [
+        "Ko'pdan ko'pga munosabat ",
+        "Ulanish yo‘q",
+        "Birga bir muloqot",
+        "Birdan ko'pga munosabat"
+      ]
+    },
+    {
+      "question": "Mavjud ma'lumotlar bazasida yangi jadval yaratish uchun qaysi  buyruqdan foydalaniladi?",
+      "answer": [
+        "JADVAL YARATING",
+        "YANGI JADVOL",
+        "JADVOL TUZISH",
+        "JADVAL QO'RISH"
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasini ierarxik, tarmoqli, relyatsion toifalarga bo'lish belgisi bu...?",
+      "answer": [
+        "ishlatilgan ma'lumotlar modeli turi",
+        "axborot shakli",
+        "saqlangan ma'lumotlar turi",
+        "saqlash topologiyasi"
+      ]
+    },
+    {
+      "question": "Shaxslar jadvalidan barcha qiymatlarni olish uchun so'rov qanday ko'rinishda bo’ladi?",
+      "answer": [
+        "TANLASH * Shaxslardan",
+        "HAMMA Shaxslarni TANLASH",
+        "TANLASH. [ Shaxslar ]",
+        "dan * dan tanlang"
+      ]
+    },
+    {
+      "question": "Munosabatlar ustidagi har qanday operatsiya natijasi nima deyiladi?",
+      "answer": [
+        "Munosabat",
+        "Xususiyat",
+        "Aloqa",
+        "stol"
+      ]
+    },
+    {
+      "question": "Relyatsion hisob – bu...?",
+      "answer": [
+        "ma'lumotlar bazasidagi bir yoki bir nechta munosabatlardan yaratilgan munosabatlar ta'rifini shakllantirish uchun ishlatilishi mumkin bo'lgan protsessual bo'lmagan til",
+        "Ma'lumotlar bazasida saqlangan bir yoki bir nechta munosabatlardan yangi munosabatlarni qurish uchun DBMS tomonidan ishlatilishi mumkin bo'lgan yuqori darajadagi protsessual til",
+        "ma'lumotlar bazasida saqlangan bir yoki bir nechta munosabatlardan munosabatlarni tavsiflash uchun ma'lumotlar bazasida ishlatilishi mumkin bo'lgan past darajadagi protsessual til.",
+        "ma'lumotlar bazasida saqlanadigan munosabatlar hisobi"
+      ]
+    },
+    {
+      "question": "Talabalar jadvalidan dan SELECT * so'rovini nima qaytadi ?",
+      "answer": [
+        "Talabalar \" jadvalidagi barcha yozuvlar",
+        "Talabalar \" jadvalidagi hisoblangan yozuvlarning umumiy soni",
+        "Talabalar \" jadvalidagi bitta ustun",
+        "Talabalar \" jadvalidagi bitta qator"
+      ]
+    },
+    {
+      "question": "Shaxslar jadvalidagi yozuvlar sonini hisoblash uchun qaysi buyruqdan foydalanadi?",
+      "answer": [
+        "Shaxslardan COUNT(*) TANLANG",
+        "Shaxslar ichida COUNT QATIR",
+        "Shaxslardan Qatorlarni TANLASH",
+        "Shaxslardan TANLASH"
+      ]
+    },
+    {
+      "question": "Birlashmaning eng keng tarqalgan turi qaysi?",
+      "answer": [
+        "ICHKI QO'SHILING",
+        "TO'LIQ QO'SHILING",
+        "CHAPGA QO'SHILING",
+        "O'RTA QO'SHILING"
+      ]
+    },
+    {
+      "question": "Foydalanuvchilar jadvalidan dastlabki 14 ta yozuvni olish uchun qaysi so’rovdan foydalaniladi? ",
+      "answer": [
+        "TANLASH * foydalanuvchilar LIMIT 14",
+        "FOYDALANUVCHILARDAN * LIMIT 14 tani tanlang",
+        "FOYDALANUVCHILARDAN * TANLANG",
+        "dan * dan tanlang"
+      ]
+    },
+    {
+      "question": "Mijozlar ” jadvalidan maʼlumotlarni olish uchun soʻrov yozing , bunda mijozning Toshkent shahridagi yashash joyi sharti.",
+      "answer": [
+        "City=\"Toshkent\" dagi mijozlardan * TANGLA",
+        "Mijozlardan City=\"Toshkent\" ni tanlang",
+        "Mijozlarni TANLASH QAYERDA City=\"Toshkent\"",
+        "QAYERNI TANLASH Shahar =\" Toshkent \""
+      ]
+    },
+    {
+      "question": "Qaysi funksiya tanlangan ustundagi barcha harflarni bosh harfga aylantirish imkonini beradi?",
+      "answer": [
+        "YUQORI ",
+        "TOP",
+        "UP",
+        "IN"
+      ]
+    },
+    {
+      "question": "Quyidagi aloqa turlaridan qaysi biri relyatsion DBMSda bevosita qo'llab-quvvatlanmaydi?",
+      "answer": [
+        "Ko'pga ko'p munosabatlar",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "Birga ko'p munosabatlar"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida A munosabatining katakchalari to'plami B munosabatining katakchalari to'plamiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "Ko'pga ko'p munosabatlar ",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "birga ko'p munosabatlar"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida A munosabatining bitta katakchasi B munosabatining bir nechta katakchasiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "Birga ko'p munosabatlar ",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "Ko'pga bir munosabat"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida A munosabatining har bir elementi (kortej) B munosabatining 0 yoki 1 kortejiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "birga-bir munosabatlar ",
+        "Ulanish yo'q",
+        "Birdan ko'pga munosabatlar",
+        "Ko'pga bir munosabat"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida B munosabatining bitta katakchasi A munosabatining kornishlari to'plamiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "ko'pga bir munosabat ",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "Birga ko'p munosabatlar"
+      ]
+    },
+    {
+      "question": "MBBT –",
+      "answer": [
+        "bu ko'plab foydalanuvchilar tomonidan ma'lumotlar bazasini yaratish, saqlash va almashish uchun mo'ljallangan til va dasturiy vositalarning kombinatsiyasi ",
+        "dasturiy ta'minot",
+        "texnika vositalari",
+        "ma'lumotlar bazasi interfeysi"
+      ]
+    },
+    {
+      "question": "Mantiqiy struktura –",
+      "answer": [
+        "Bular jadvallar, segmentlar, kengliklar va ma'lumotlar bloklari.",
+        "ma'lumotlar bazasi interfeysi",
+        "dasturiy ta'minot",
+        "texnika vositalari"
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasining asosiy vazifasi quyidagilardan iborat",
+      "answer": [
+        "Ma'lumot so'rovlarini optimallashtirish",
+        "Tashqi xotirani samarali boshqarish",
+        "Ma'lumotlarga kirishni tashkil qilish",
+        "Zaxiralash va tiklash"
+      ]
+    },
+    {
+      "question": "Ob'ektlar holatini va ko'rib chiqilayotgan ob'ekt sohasidagi o'zaro munosabatlarini aks ettiradigan ma'lumotlar to'plami",
+      "answer": [
+        "malumotlar bazasi",
+        "ma’lumotlar banki",
+        "MBBT",
+        "ma'lumotlar bazasi to'plami"
+      ]
+    },
+    {
+      "question": "Jismoniy tuzilma o'z ichiga oladi?",
+      "answer": [
+        "ma'lumotlar fayllari, boshqarish fayllari va onlayn jurnallar",
+        "segmentlar, uzatmalar va ma'lumotlar bloklari.",
+        "boshqarish fayllari va operatsion jurnallar",
+        "boshqarish fayllari va operatsion jurnallar, ekstentlar"
+      ]
+    },
+    {
+      "question": "MBBT jadvallari qatorida quyidagilar mavjud:",
+      "answer": [
+        "Muayyan ob'ekt haqida ma'lumot",
+        "bir xil turdagi ob'ektlarning jami haqida ma'lumot;",
+        "ma'lum bir fan sohasiga tegishli barcha ob'ektlarning yig'indisi to'g'risida ma'lumot",
+        "jadval haqida ma’lumot"
+      ]
+    },
+    {
+      "question": "Relyatsion ma'lumotlar bazasida (MB) fayl yozuvi quyidagilarni o'z ichiga olishi mumkin.",
+      "answer": [
+        "bir hil ma'lumotlar (faqat bitta turdagi ma'lumotlar)",
+        "faqat matnli ma'lumotlar;",
+        "geterogen ma'lumot (har xil turdagi ma'lumotlar);",
+        "faqat mantiqiy miqdorlar;"
+      ]
+    },
+    {
+      "question": "MBBT nimalar kiritilishi kerak?",
+      "answer": [
+        "so'rovlar tili protsessor",
+        "buyruq interfeysi",
+        "vizual qobiq",
+        "yordam tizimi"
+      ]
+    },
+    {
+      "question": "Mavjud bazada yangi jadval yaratish uchun quyidagi buyruqdan foydalaning:",
+      "answer": [
+        "CREATE TABLE",
+        "NEW TABLE",
+        "MAKE TABLE",
+        "INSERT TABLE"
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasini ierarxik, tarmoq, releatsion deb tasniflash belgisi…",
+      "answer": [
+        "ishlatiladigan ma'lumotlar modelining turi",
+        "taqdim etilgan ma'lumot shakli",
+        "saqlanadigan ma'lumot turi",
+        "saqlash topologiyasi"
+      ]
+    },
+    {
+      "question": "Axborotni saqlashning har bir birligi cheklangan atributlar to'plami sifatida taqdim etilishi mumkin bo'lgan ma'lumotlar  nima deyiladi?",
+      "answer": [
+        "yaxshi strukturalashgan",
+        "yomon strukturalashgan",
+        "qisman strukturalashgan",
+        "Strukturalashmagan"
+      ]
+    },
+    {
+      "question": "OLAP tipidagi tizimlar quyidagi harakatlarni qo'llab-quvvatlaydi?",
+      "answer": [
+        "Operatsion",
+        "Tahliliy",
+        "Taktik",
+        "Strategik"
+      ]
+    },
+    {
+      "question": "Modellarni ishlab chiqish tartibida tartiblang:",
+      "answer": [
+        "Infologik model",
+        "Datalogik modeli",
+        "Fizik model",
+        "Fizik va datalogik model"
+      ]
+    },
+    {
+      "question": "Relyatsion algebraning ikkilik operatsiyasi hisoblanmaydi?",
+      "answer": [
+        "Loyihalash",
+        "Farqi",
+        "Karteziya mahsuloti",
+        "Bo'linish"
+      ]
+    },
+    {
+      "question": "\"Shaxslar\" jadvalidagi barcha qiymatlarni tanlash uchun so'rov quyidagi shaklga ega:",
+      "answer": [
+        "SELECT * FROM Persons",
+        "SELECT ALL Persons",
+        "SELECT .[Persons]",
+        "SELECT * FROM"
+      ]
+    },
+    {
+      "question": "Releatsion hisoblash bu…?",
+      "answer": [
+        "munosabatlardagi ta'rifni shakllantirish mumkin bo'lgan protsessual bo'lmagan til, ma'lumotlar bazasida bir yoki bir nechta munosabatlar asosida yaratilgan",
+        "Ma'lumotlar bazasida saqlangan bir yoki bir nechta aloqalardan yangi munosabatlarni o'rnatish uchun ma'lumotlar bazasida ishlatilishi mumkin bo'lgan yuqori darajadagi protsessual til",
+        "ma'lumotlar bazasida saqlanadigan bir yoki bir nechta munosabatdagi munosabatlarni tavsiflash uchun ma'lumotlar bazasida ishlatilishi mumkin bo'lgan past darajadagi protsessual til",
+        "ma'lumotlar bazasida saqlanadigan munosabatlarning hisobi"
+      ]
+    },
+    {
+      "question": "SQL kengaytmasi qanday?",
+      "answer": [
+        "structured query language",
+        "strict question line",
+        "strong question language",
+        "strong question like"
+      ]
+    },
+    {
+      "question": "SELECT * FROM Talabalar so'rovi nima qaytaradi?",
+      "answer": [
+        "\"Talabalar\" jadvalidagi barcha yozuvlar",
+        "\"Talabalar\" jadvalidagi yozuvlarning umumiy soni",
+        "\"Talabalar\" jadvalidagi bir ustunni",
+        "\"Talabalar\" jadvalidagi bir satrni"
+      ]
+    },
+    {
+      "question": "Odamlar jadvalidagi yozuvlar sonini hisoblash uchun quyidagi  qaysi buyruq ishlatiladi?",
+      "answer": [
+        "SELECT COUNT(*) FROM Persons",
+        "COUNT ROW IN Persons",
+        "SELECT ROWS FROM Persons",
+        "SELECT FROM Persons"
+      ]
+    },
+    {
+      "question": "Birlashmaning eng keng tarqalgan turi:",
+      "answer": [
+        "INNER JOIN",
+        "FULL JOIN",
+        "LEFT JOIN",
+        "CROSS JOIN"
+      ]
+    },
+    {
+      "question": "\"SELECT name «SELECT name ___ Employees WHERE age ___ 35 AND 50» so'rovi, yoshi 35 dan 50 yoshgacha bo'lgan ishchilarning ismlarini qaytaradi. So'rovda bo'sh joylarni to'ldiring.",
+      "answer": [
+        "FROM, BETWEEN",
+        "INTO, IN",
+        "FROM, IN",
+        "INTO, BETWEEN"
+      ]
+    },
+    {
+      "question": "\"Users\" jadvalidagi birinchi 14 ta yozuvni tanlash uchun so'rov quyidagi shaklga ega:",
+      "answer": [
+        "SELECT * FROM Users LIMIT 14",
+        "SELECT * LIMIT 14 FROM Users",
+        "SELECT * FROM USERS",
+        "SELECT * FROM"
+      ]
+    },
+    {
+      "question": "To'g'ri gapni tanlang:",
+      "answer": [
+        "SQL so'rovlarni yozishda jadval nomlarida harflarni hisobga oladi",
+        "SQL so'rovlarni yozishda harflarni hisobga oladi",
+        "SQL registrga sezgir emas",
+        "SQL so’rovlar jadvallarni hisobga oladi"
+      ]
+    },
+    {
+      "question": "«SELECT ___, Сountry FROM ___ »,  so'roviga bo'sh joylarni to'ldiring, unda mijozlar nomlari va \" Customers \" jadvalidan ular joylashgan mamlakat ko'rsatilgan.",
+      "answer": [
+        "Name, Customers ",
+        "Customers",
+        "NULL, Customers",
+        "Name"
+      ]
+    },
+    {
+      "question": "\"Countries\" jadvalidagi barcha qiymatlarni qaytaradigan so'rov, ID = 8 bo'lgan davlat bundan mustasno, quyidagicha ko'rinadi:",
+      "answer": [
+        "SELECT * FROM Countries WHERE ID !=8",
+        "SELECT * FROM Countries EXP ID=8",
+        "SELECT ALL FROM Countries LIMIT 8",
+        "SELECT * FROM Countries LIMIT 8"
+      ]
+    },
+    {
+      "question": "«Customers jadvalidan ma'lumotlarni tanlash uchun so'rov yozing, bu yerda mijozning Toshkentda qolishi shart",
+      "answer": [
+        "SELECT * FROM Customers WHERE City=”Tashkent”",
+        "SELECT City=” Tashkent” FROM Customers",
+        "SELECT Customers WHERE City=” Tashkent”",
+        "SELECT WHERE City=”Tashkent”"
+      ]
+    },
+    {
+      "question": "Xodimlarning ismlari, familiyalari va tug'ilgan sanalarini qaytaradigan so'rov yozing (\"Employees\" jadvali). Shart - familiyada \"se\" birikmasi mavjud.",
+      "answer": [
+        "SELECT FirstName, LastName, BirthDate from Employees WHERE LastName like “%se%”",
+        "SELECT FirstName, LastName, BirthDate from Employees WHERE LastName=“se”",
+        "SELECT * from Employees WHERE LastName like “_se_”",
+        "SELECT * from Employees WHERE LastName like “_se_”"
+      ]
+    },
+    {
+      "question": "Tanlangan ustundagi barcha harflarni katta harfga aylantirish uchun qanday funktsiya mavjud?",
+      "answer": [
+        "UPPER",
+        "TOP",
+        "UP",
+        "IN"
+      ]
+    },
+    {
+      "question": "«Employees» jadvalidagi LastName ustuniga Surname o'zgartirishga imkon beradigan so'rov yozing.",
+      "answer": [
+        "ALTER TABLE Employees CHANGE LastName Surname varchar(50)",
+        "RENAME LastName into Surname FROM Employees",
+        "ALTER TABLE Surname(LastName) FROM Employees",
+        "ALTER TABLE Surname(LastName)"
+      ]
+    },
+    {
+      "question": "Oldingi SQL so'rov natijalariga asoslangan yangi virtual jadval yaratish uchun quyidagi buyruqni ishlating.",
+      "answer": [
+        "CREATE VIEW",
+        "CREATE VIRTUAL TABLE",
+        "ALTER VIEW",
+        "ALTER TABLE"
+      ]
+    },
+    {
+      "question": "DROP DATABASE Users so'rovini bajarish natijasida nima bo'ladi?",
+      "answer": [
+        "«Users» bazasini to'liq yo'q qilish",
+        "«Users» ma'lumotlar bazasiga o'zgartirish kiritishni bloklash",
+        "\"Ma'lumotlar bazasi\" dan «Users» jadvalini olib tashlash",
+        "Jadvalni o’chirish"
+      ]
+    },
+    {
+      "question": "Hayvonot bog'i ma'lumotlar bazasining «Animals» jadvalida u erda yashaydigan barcha hayvonlar, shu jumladan tulki: qizil tulki, kulrang tulki, kichkina tulki to'g'risida ma'lumotlar mavjud. Tulkining yoshi haqidagi ma'lumotni qaytaring.",
+      "answer": [
+        "SELECT age FROM Animals WHERE Animal LIKE «%fox»",
+        "SELECT %fox age FROM Animals",
+        "SELECT age FROM %Fox.Animals",
+        "SELECT %fox age FROM"
+      ]
+    },
+    {
+      "question": "SELECT FirstName, LastName, Salary FROM Employees Where Salary<(Select AVG(Salary) FROM Employees) ORDER BY Salary DESC so’rov nimani qaytaradi?",
+      "answer": [
+        "Ishchilarning oylik maoshlari o'rtacha darajadan past ekanligi shart bo'lgan xodimlarning ismlari, familiyalari va ish haqlari, ish haqini pasaytirilgan tartibda saralash.",
+        "xodimlarning ismlari, familiyalari va ish haqlari, ularning qiymatlari barcha ishchilar o'rtasida o'rtacha qiymatga to'g'ri keladi",
+        "xodimlarning ismlari, familiyalari va ularning ishlagan davridagi o'rtacha ish haqi, pasayish tartibida saralanishi",
+        "Jadvaldagi ma’lumotlarni saralab chiqaradi"
+      ]
+    },
+    {
+      "question": "\"Users\" jadvalining \"FirstName\" ustunidan qiymatlarni qaytaradigan so'rov yozing.",
+      "answer": [
+        "SELECT FirstName FROM Users",
+        "SELECT FirstName.Users",
+        "SELECT * FROM Users.FirstName",
+        "SELECT * FROM"
+      ]
+    },
+    {
+      "question": "Shaharlardan birida istiqomat qiluvchi mijozlar to'g'risida ma'lumotni qaytaradigan so'rov yozing: Moskva, Tbilisi, Lvov.",
+      "answer": [
+        "SELECT * FROM Customers WHERE City IN (‘Moscow’, ‘Tbilisi’, ‘Lvov’)",
+        "SELECT Moscow, Tbilisi, Lvov FROM Customers",
+        "SELECT City IN (‘Moscow’, ‘Tbilisi’, ‘Lvov’) FROM Customers",
+        "SELECT City IN (‘Moscow’, ‘Tbilisi’, ‘Lvov’)"
+      ]
+    },
+    {
+      "question": "So'rov natijalarini dublikatlarni o'chirmasdan birlashtirish uchun qaysi buyruq ishlatiladi?",
+      "answer": [
+        "UNION ALL",
+        "UNION",
+        "FULL JOIN",
+        "JOIN"
+      ]
+    },
+    {
+      "question": "REVOKE operatori quyidagilarga mo'ljallangan:",
+      "answer": [
+        "Oldindan berilgan ruxsatlarni foydalanuvchi yoki foydalanuvchi guruhini bekor qilish",
+        "foydalanuvchi yoki foydalanuvchilar guruhiga muayyan operatsiyalarni bajarish huquqini berish",
+        "foydalanuvchini yoki foydalanuvchilar guruhini qaror bilan taqqoslaganda ustuvor bo'lgan taqiqni o'rnatish",
+        "foydalanuvchini yoki foydalanuvchilar guruhini "
+      ]
+    },
+    {
+      "question": "SQL-da aliases nima uchun ishlatiladi?",
+      "answer": [
+        "Ifodani ma'lumotlar manbai sifatida ishlatganda yoki so'rovlar tuzilishini soddalashtirish uchun so'rovda ma'lumot manbasiga nom berish.",
+        "Maydonlarni qayta nomlash",
+        "Agar ma'lumotlar bazasida bir xil maydon nomlariga ega jadvallar bo'lsa, ma'lumotlar manbasini aniqroq ko'rsatish uchun",
+        "Maydonlarni o’chirish"
+      ]
+    },
+    {
+      "question": "\"Countries\" jadvalidan shaharlarning qiymatlarini qaytaradigan so'rov yozing.",
+      "answer": [
+        "SELECT City FROM Countries",
+        "SELECT * FROM Countries WHERE ID=”City”",
+        "SELECT City.Countries",
+        "SELECT FROM"
+      ]
+    },
+    {
+      "question": "So'rov elementlari mavjud: 1. ORDER BY Name; 2. WHERE Age<19; 3. FROM Students; 4. SELECT FirstName, LastName. 19 yoshgacha bo'lgan talabalarning ismlarini nomlari bo'yicha saralash orqali qidirish uchun ularni qanday tartibda ajratish kerak?",
+      "answer": [
+        "4, 3, 2, 1",
+        "1, 4, 2, 3",
+        "4, 2, 3, 1",
+        "1, 2, 3, 4"
+      ]
+    },
+    {
+      "question": "SQL-da PRIVILEGUE ko'rsatmasi nima uchun ishlatiladi?",
+      "answer": [
+        "Bunday operator yo'q",
+        "Superuser ma'muriga imtiyozlar berish",
+        "foydalanuvchilarni tanlash va keyin ularga ma'lum huquqlar berish",
+        "Jadvallarni ko’rish uchun"
+      ]
+    },
+    {
+      "question": "Hozirgi sanani qaytaradigan so'rov yozing.",
+      "answer": [
+        "SELECT GetDate()",
+        "SELECT TodayDate()",
+        "SELECT Date(Today)",
+        "SELECT Date"
+      ]
+    },
+    {
+      "question": "Berilgan diapazondagi qiymatlarni tanlash uchun qaysi operator ishlatiladi?",
+      "answer": [
+        "BETWEEN",
+        "WITHIN",
+        "IN",
+        "AND"
+      ]
+    },
+    {
+      "question": "Nisbiy ma'lumotlar bazasi o'rtasidagi asosiy farq:",
+      "answer": [
+        "ma'lumotlar munosabatlar sifatida tashkil etilgan",
+        "qat'iy ravishda daraxt tuzilishi",
+        "grafik shaklida taqdim etilgan",
+        "ierarxik tuzilishi"
+      ]
+    },
+    {
+      "question": "Ma'lumotlar bazasida Null so'zi quyidagilar uchun ishlatiladi:",
+      "answer": [
+        "aniqlanmagan qiymatlar",
+        "bo'sh qiymatlar",
+        "nol",
+        "bo’sh bo’lmagan qiymat"
+      ]
+    },
+    {
+      "question": "Bir nechta atributlardan tashkil topgan kichik jadval uchun indeks deyiladi:",
+      "answer": [
+        "aralash",
+        "o'ziga xos bo'lmagan",
+        "qiyin",
+        "aralash bo’lmagan"
+      ]
+    },
+    {
+      "question": "Jadval satrini o’cherish uchun qaysi so’rovdan foydalaniladi?",
+      "answer": [
+        "Delete",
+        "Insert",
+        "Update",
+        "Order by"
+      ]
+    },
+    {
+      "question": "Jadvalga satr qo’shish uchun qaysi so’rovdan foydalaniladi?",
+      "answer": [
+        "Insert",
+        "Delete",
+        "Drop",
+        "Alter table"
+      ]
+    },
+    {
+      "question": "Jadvalga ustun qo’shish uchun qaysi so’rovdan foydalaniladi?",
+      "answer": [
+        "Alter table",
+        "Delete",
+        "Update",
+        "Insert"
+      ]
+    },
+    {
+      "question": "Jadval ma’lumotlarini yangilash uchun qaysi so’rovdan foydalaniladi?",
+      "answer": [
+        "Update",
+        "Between",
+        "Where",
+        "Like"
+      ]
+    },
+    {
+      "question": "Between so’rov vazifasi",
+      "answer": [
+        "belgilanganlar orasida qidirishni amalga oshiradi",
+        "Faqat satr bo’yicha qidiradi",
+        "Faqat ustun bo’yicha qidiradi",
+        "O’xshashlarni qidiradi"
+      ]
+    },
+    {
+      "question": "Like so’rovi vazifasi",
+      "answer": [
+        "jadvaldan o’xshahlarni qidiradi",
+        "belgilanganlar orasida qidirishni amalga oshiradi",
+        "Faqat satr bo’yicha qidiradi",
+        "Faqat ustun bo’yicha qidiradi"
+      ]
+    },
+    {
+      "question": "BLOB ma’lumotlar turi bu –",
+      "answer": [
+        "U ma'lumotlarni ikkilik formatda saqlaydi, rasmlar, audio va video, shuningdek kompilyatsiya qilingan dastur kodini saqlash uchun ishlatiladi",
+        "Belgilar katta ob'ekti (Character Large Object). Matn ma'lumotlarini DB formatida saqlaydi",
+        "Milliy belgilar to'plami katta ob'ekt (National Character Set Large Object). Matn ma'lumotlarini milliy kodlashda saqlaydi.",
+        "Tashqi ikkilik fayl (External Binary File) "
+      ]
+    },
+    {
+      "question": "NCLOB ma’lumotlar turi bu –",
+      "answer": [
+        "Milliy belgilar to'plami katta ob'ekt (National Character Set Large Object). Matn ma'lumotlarini milliy kodlashda saqlaydi.",
+        "U ma'lumotlarni ikkilik formatda saqlaydi, rasmlar, audio va video, shuningdek kompilyatsiya qilingan dastur kodini saqlash uchun ishlatiladi",
+        "Belgilar katta ob'ekti (Character Large Object). Matn ma'lumotlarini DB formatida saqlaydi",
+        "Tashqi ikkilik fayl (External Binary File)"
+      ]
+    },
+    {
+      "question": "ALTER TABLE _Student ADD STIPEND VARCHAR2(20); so’rovi nima vazifani bajaradi?",
+      "answer": [
+        "_Student jadvaliga STIPEND ustunini qo’shadi",
+        "_Student jadvaliga STIPEND ustunini o’chiradi",
+        "_Student jadvaliga STIPEND satrni o’chiradi",
+        "_Student jadvaliga STIPEND satrni qo’shadi"
+      ]
+    },
+    {
+      "question": "Ortiqcha qiymatlarni yo'q qilish qobiliyatini ta'minlaydigan Select buyrug'ini ko’rsating.",
+      "answer": [
+        "Distinct",
+        "Order by",
+        "Where",
+        "Having"
+      ]
+    },
+    {
+      "question": "Berilgan shartning to'g'riligiga qarab ma'lumotlarni tanlashga imkon beradigan Select buyrug'ini ko’rsating.",
+      "answer": [
+        "Where",
+        "Order by",
+        "Distinct",
+        "Having"
+      ]
+    },
+    {
+      "question": "Jadvaldagi qiymatlar guruhini boshqa maydon nuqtai nazaridan belgilaydigan va unga agregat funktsiyasini qo'llaydigan buyruqni nomlang.",
+      "answer": [
+        "Group by",
+        "Order by",
+        "Distinct",
+        "Where"
+      ]
+    },
+    {
+      "question": "Agregat funktsiyalar uchun shartlarni belgilashga imkon beradigan Select buyrug'ini ko’rsating",
+      "answer": [
+        "Having",
+        "Order by",
+        "Distinct",
+        "Where"
+      ]
+    },
+    {
+      "question": "So'rov natijalarini saralash uchun ishlatiladigan Select buyrug'ini ko’rsating.",
+      "answer": [
+        "Order by",
+        "Distinct",
+        "Where",
+        "Having"
+      ]
+    },
+    {
+      "question": "Operatorlar AND, OR, NOT  bu…?",
+      "answer": [
+        "Mantiqiy operatorlar",
+        "relyatsion operatorlar",
+        "Maxsus operatorlar",
+        "Agregat funktsiyalari"
+      ]
+    },
+    {
+      "question": "Operatorlar IN, BETWEEN, LIKE  bu…?",
+      "answer": [
+        "maxsus operatorlar",
+        "relyatsion operatorlar",
+        "Mantiqiy operatorlar",
+        "Agregat funktsiyalari"
+      ]
+    },
+    {
+      "question": "Ma'lumot turining nomi bo'lgan variantni tanlang",
+      "answer": [
+        "Barcha variantlar to'g'ri",
+        "ramziy",
+        "raqamli",
+        "sana-vaqt"
+      ]
+    },
+    {
+      "question": "Sana va vaqt doimiylari qanday turdagi ma'lumotlarga ega?",
+      "answer": [
+        "satrli ",
+        "raqamli",
+        "pul",
+        "suzuvchi nuqta raqami"
+      ]
+    },
+    {
+      "question": "Tavsiya etilgan ismlar orasidan agregat funktsiyasi nomi bo'lganini tanlang",
+      "answer": [
+        "Barcha javoblar to’g’ri",
+        "COUNT",
+        "SUM",
+        "AVG"
+      ]
+    },
+    {
+      "question": "Agregat funktsiyalaridan qaysi biri faqat raqamli maydonlardan foydalanadi?",
+      "answer": [
+        "SUM, AVG",
+        "COUNT, SUM",
+        "MAX, MIN",
+        "AVG, MAX, MIN"
+      ]
+    },
+    {
+      "question": "Ko’pga ko’p bog’lanish bo’lmagan qatorni aniqlang",
+      "answer": [
+        "1:1",
+        "1 :М",
+        "М: 1",
+        "М:М"
+      ]
+    },
+    {
+      "question": "Agar munosabatlarning barcha atributlari sodda bo'lsa (bitta qiymatga ega bo'lsa), unda munosabat topiladi",
+      "answer": [
+        "birinchi normal shaklda",
+        "ikkinchi normal shaklda",
+        "uchinchi normal shaklda",
+        "to'rtinchi normal shaklda"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarni taqdim etish modeli",
+      "answer": [
+        "ma'lumotlar bazasida saqlanadigan ma'lumotlarning mantiqiy tuzilishi",
+        "ma'lumotlar bazasida saqlanadigan ma'lumotlarning fizik tuzilishi",
+        "ma'lumotlar ierarxik tuzilishi",
+        "Tarmoq ma'lumotlari tarkibi"
+      ]
+    },
+    {
+      "question": "Ko'p ishlatiladigan ma'lumotlar bazasi (ko'pgina ma'lumotlar bazalarida)",
+      "answer": [
+        "munosabat modeli",
+        "Tarmoq ma'lumotlari modeli",
+        "Ma'lumotlarning ierarxik modeli",
+        "teskari ro'yxat tizimlari"
+      ]
+    },
+    {
+      "question": "Javobning qaysi varianti ma'lumotlar bazasi arxitekturasining darajasi emas?",
+      "answer": [
+        "jismoniy qatlam ",
+        "ichki daraja",
+        "tashqi daraja",
+        "kontseptual daraja"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarning relyatsion taqdimot modeli - foydalanuvchi uchun ma'lumotlar shaklda uzatiladi",
+      "answer": [
+        "jadvallar",
+        "ro'yxatlar",
+        "daraxt turlari grafigi",
+        "o'zboshimchalik bilan grafik"
+      ]
+    },
+    {
+      "question": "Tarmoq ma'lumotlarini namoyish etish modeli - ma'lumotlar yordamida namoyish etiladi",
+      "answer": [
+        "o'zboshimchalik bilan grafik",
+        "Jadvallar",
+        "ro'yxatlar",
+        "buyurtma qilingan grafik"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarni ierarxik taqdim etish modeli - ma'lumotlar quyidagicha taqdim etiladi",
+      "answer": [
+        "buyurtma qilingan grafik",
+        "jadvallar",
+        "ro'yxatlar",
+        "o'zboshimchalik bilan grafik"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarni taqdim etishning relyatsion modeli printsiplari yaratildi",
+      "answer": [
+        "Codd",
+        "fon Neyman",
+        "Turing",
+        "Paskal"
+      ]
+    },
+    {
+      "question": "Muvofiqlik deyiladi…",
+      "answer": [
+        "jadval",
+        "Fayl",
+        "ro'yxat",
+        "jadvallar orasidagi bog'liqlik"
+      ]
+    },
+    {
+      "question": "Aloqalar to'plami bu…?",
+      "answer": [
+        "stol qatori",
+        "jadval ustuni",
+        "jadval",
+        "bir nechta bog'liq jadvallar"
+      ]
+    },
+    {
+      "question": "Aloqa atributi bu…?",
+      "answer": [
+        "jadval ustuni",
+        "Stol qatori",
+        "Jadval",
+        "jadvallararo aloqa"
+      ]
+    },
+    {
+      "question": "Bitta atribut yoki bir nechta atributlarning minimal to'plami, ularning qiymatlari bir vaqtning o'zida bir xil emas, ya'ni ular jadval yozuvini o'ziga xos tarzda aniqlaydi – bu…?",
+      "answer": [
+        "asosiy kalit",
+        "tashqi kalit",
+        "Indeks",
+        "munosabat darajasi"
+      ]
+    },
+    {
+      "question": "Kalit murakkab deb nomlanadi agar  bir nechta … iborat bo’lsa",
+      "answer": [
+        "bir nechta atributlardan",
+        "bir nechta yozuvlardan",
+        "bitta atributdan",
+        "qiymati atributlar sonidan kattaroq bo'lgan bitta atributdan"
+      ]
+    },
+    {
+      "question": "Jadvaldagi yozuvlarni qidirish operatsiyasini tezlashtirish vositasi va natijada qidiruv yordamida boshqa operatsiyalar deyiladi",
+      "answer": [
+        "indeks",
+        "xash kodi",
+        "asosiy kalit",
+        "tashqi kalit"
+      ]
+    },
+    {
+      "question": "Jadval indekslangan deyiladi, agar u uchun … ishlatilsa",
+      "answer": [
+        "indeks",
+        "xash kodi",
+        "asosiy kalit",
+        "tashqi kalit"
+      ]
+    },
+    {
+      "question": "Bir-birlari bilan bog'liq bo'lgan, boshqalarning qiymati bo'yicha bir nechta kortejni izlashga imkon beradigan munosabatlar to'plami …",
+      "answer": [
+        "Relyatsion ma'lumotlar bazasi",
+        "relyatsiyadan oldingi ma'lumotlar bazasi",
+        "relyatsiyadan keyingi ma'lumotlar bazasi",
+        "yuqorida aytilganlarning hammasi"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida A munosabatining har bir elementi (kortej) B munosabatining 0 yoki 1 kortejiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "birga-bir munosabatlar",
+        "Ulanish yo'q",
+        "Birdan ko'pga munosabatlar",
+        "Ko'pga bir munosabat"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida B munosabatining bitta katakchasi A munosabatining kornishlari to'plamiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "ko'pga bir munosabat",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "Birga ko'p munosabatlar"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida A munosabatining bitta katakchasi B munosabatining bir nechta katakchasiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang",
+      "answer": [
+        "Birga ko'p munosabatlar",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "Ko'pga bir munosabat"
+      ]
+    },
+    {
+      "question": "Vaqtning har bir lahzasida A munosabatining katakchalari to'plami B munosabatining katakchalari to'plamiga to'g'ri keladigan bo'lsa, tegishli munosabat turini tanlang.",
+      "answer": [
+        "Ko'pga ko'p munosabatlar",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "birga ko'p munosabatlar"
+      ]
+    },
+    {
+      "question": "Quyidagi aloqa turlaridan qaysi biri relyatsion DBMSda bevosita qo'llab-quvvatlanmaydi?",
+      "answer": [
+        "Ko'pga ko'p munosabatlar",
+        "Ulanish yo'q",
+        "birga-bir munosabatlar",
+        "Birga ko'p munosabatlar"
+      ]
+    },
+    {
+      "question": "Javobning qaysi varianti ma'lumotlar bazasi arxitekturasining darajasi emas?",
+      "answer": [
+        "jismoniy qatlam",
+        "ichki daraja",
+        "tashqi daraja",
+        "kontseptual daraja"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarning relyatsion taqdimot modeli - foydalanuvchi uchun ma'lumotlar shaklda uzatiladi",
+      "answer": [
+        "jadvallar",
+        "ro'yxatlar",
+        "daraxt turlari grafigi",
+        "o'zboshimchalik bilan grafik"
+      ]
+    },
+    {
+      "question": "Tarmoq ma'lumotlarini namoyish etish modeli - ma'lumotlar yordamida namoyish etiladi",
+      "answer": [
+        "o'zboshimchalik bilan grafik",
+        "Jadvallar",
+        "ro'yxatlar",
+        "buyurtma qilingan grafik"
+      ]
+    },
+    {
+      "question": "Ma'lumotlarni taqdim etish modeli bu...?",
+      "answer": [
+        "Ma'lumotlar bazasida saqlanadigan ma'lumotlarning mantiqiy tuzilishi",
+        "Ma'lumotlar bazasida saqlanadigan ma'lumotlarning jismoniy tuzilishi",
+        "Ma'lumotlarning ierarxik tuzilishi",
+        "tarmoq ma'lumotlar tuzilishi"
+      ]
+    },
+    {
+      "question": "Eng ko'p ishlatiladigan (ko'p ma'lumotlar bazalarida) ma'lumotlar modeli...?",
+      "answer": [
+        "Munosabatlar modeli",
+        "tarmoq ma'lumotlar modeli",
+        "Ma'lumotlarning ierarxik modeli",
+        "E'lonlar ro'yxati tizimlari"
+      ]
+    },
+    {
+      "question": "Modellarni ishlab chiqish tartibida tartiblang:",
+      "answer": [
+        "Infologik model",
+        "Datalogik modeli",
+        "Fizik model",
+        "Fizik va datalogik model"
+      ]
+    },
+    {
+      "question": "Relyatsion algebraning ikkilik operatsiyasi hisoblanmaydi?",
+      "answer": [
+        "Loyihalash",
+        "Farqi",
+        "Karteziya mahsuloti",
+        "Bo'linish"
+      ]
+    },
+    {
+      "question": "\"Shaxslar\" jadvalidagi barcha qiymatlarni tanlash uchun so'rov quyidagi shaklga ega:",
+      "answer": [
+        "SELECT * FROM Persons",
+        "SELECT ALL Persons",
+        "SELECT .[Persons]",
+        "SELECT * FROM"
+      ]
+    }
+  ]
+}

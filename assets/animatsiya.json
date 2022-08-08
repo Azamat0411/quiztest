@@ -1,0 +1,1786 @@
+{
+  "test": [
+    {
+      "question": "Uch o‘lchovli grafika yaratish dasturlari berilgan javobni aniqlang.",
+      "answer": [
+        "3D Studio Max, Maya",
+        "Adobe Photoshop, Maya",
+        "3D Studio Max, Corel Draw",
+        "3D Studio Max, Adobe Photoshop, Corel Draw"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektlarni ko‘chirish va aylantirish uchun klaviaturaning qaysi tugmachalaridan foydalaniladi?",
+      "answer": [
+        "W va E",
+        "Ctrl+L",
+        "Shift+Q",
+        "W va A"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektlardan nusxa ko‘chirish uchun qaysi amal bajariladi?",
+      "answer": [
+        "TOP - Tepadan",
+        "LEFT - Chapdan",
+        "RIGHT - O‘ngdan",
+        "BOTTOM - Ostidan"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Rendering klaviaturaning qaysi tugmachalari orqali bajariladi?",
+      "answer": [
+        "Shift+Q",
+        "F10",
+        "Shift+F",
+        "F8"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektlarni X,Y,Z o‘qlari bo‘yicha qayirish modifikatorini ko‘rsating.",
+      "answer": [
+        "Bend",
+        "Boolean",
+        "Edit Poly",
+        "Shell"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida foydalaniladigan modifikatorlar qatorini belgilang",
+      "answer": [
+        "Extrude, Shell, Edit Poly",
+        "Extrude, Shell, Boolean",
+        "Boolean, Proboolean",
+        "Extrude, Shell, Edit Poly, Boolean"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturiy paketi qaysi kompaniyaga tegishli?",
+      "answer": [
+        "Autodesk",
+        "Adobe",
+        "Maxon",
+        "Macromedia"
+      ]
+    },
+    {
+      "question": "Animatsion mahsulotlar yaratuvchi qaysi studiyaning animatsion tamoyillari ko‘pchilik tomonidan tan olingan?",
+      "answer": [
+        "Walt Disney",
+        "Pixar",
+        "Warner Brothers",
+        "Universal Pictures"
+      ]
+    },
+    {
+      "question": "Animatsiyaning qaysi bir tamoyili harakat mexanik ko‘rinishda aks etishidan qochishga mo‘ljallangan?",
+      "answer": [
+        "Yoy bo‘ylab harakat",
+        "Ikkilamchi harakat",
+        "Teskari harakat",
+        "To‘g‘ri chiziqli harakat"
+      ]
+    },
+    {
+      "question": "Walt Disney studiyasi tomonidan ishlab chiqilgan animatsiya tamoyillarining nechta turi mavjud?",
+      "answer": [
+        "12",
+        "8",
+        "10",
+        "6"
+      ]
+    },
+    {
+      "question": "Animatsiya so‘zining ma’nosi to‘g‘ri keltirilgan qatorni belgilang.",
+      "answer": [
+        "Harakatlantirish",
+        "Ovozlashtirish",
+        "Ko‘chirish",
+        "Tasvirlash"
+      ]
+    },
+    {
+      "question": "Uch o‘lchovli obyekt shaklining o‘zgarishi qanday nomlandi?",
+      "answer": [
+        "Morfing",
+        "Artikulyatsiya",
+        "Qiymatlar interpolyatsiyasi",
+        "Qiymatlar deformatsiyasi"
+      ]
+    },
+    {
+      "question": "Rasskadrovka kim tomonidan chiziladi?",
+      "answer": [
+        "G‘oya muallifi va rejissor",
+        "Animator",
+        "Tasvirchi",
+        "Modelchi"
+      ]
+    },
+    {
+      "question": "Qaysi klavisha orqali Adobe Animateda oddiy kadr hosil qilish mumkin?",
+      "answer": [
+        "F5",
+        "F10",
+        "F9",
+        "F7"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Distributed Renderingning vazifasi?",
+      "answer": [
+        "Bir qancha kompyutеr yordamida tarmoqli rеndеring",
+        "Bir dona kompyutеr yordamida rеndеring",
+        "Katta o‘lchamdagi faylning rеndеringi",
+        "Ishlash jarayonini o‘zida bevosita rendering"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida yaratilgan obyеktni o‘lchamini o‘zgartirish uchun qanday amal bajariladi",
+      "answer": [
+        "Obyеkt paramеtrlaridan foydalaniladi",
+        "Extrude modifikatoridan foydalaniladi",
+        "W va E tugmalaridan foydalaniladi",
+        "S va A tugmalaridan foydalaniladi"
+      ]
+    },
+    {
+      "question": "3D grafika qanday imkoniyatni taqdim etadi?",
+      "answer": [
+        "(x,y,z) koordinata sistemasida yuza tasvirini hosil qilish imkonini beradi",
+        "(x,y) koordinata sistemasida yuza tasvirini hosil qilish imkonini beradi",
+        "Tasvir hosil qilish imkonini beradi",
+        "(x,y) koordinata sistemasida yuza tasvirini hosil qilish imkonini bermaydi"
+      ]
+    },
+    {
+      "question": "3Ds Maxda Bend modifikatori nima vazifani bajaradi?",
+      "answer": [
+        "Bukish uchun ishlatiladi",
+        "Burish uchun ishlatiladi",
+        "Tekislash uchun ishlatiladi",
+        "Masshtablash uchun ishlatiladi"
+      ]
+    },
+    {
+      "question": "Animatsion mahsulotda ketma-ketlik bu ...",
+      "answer": [
+        "Asosiy voqealardan biri hisoblanadi va odatda tegishli oraliq sohalarda belgilanadi",
+        "Bir necha kadrlarga bo‘lingan tasvirlar bo‘lib tegishli vaqt oraliqlarida beriladi",
+        "Kameralarning uzluksiz yozuvi bo‘lib tegishli vaqt oraliqlari bilan beriladi",
+        "Oldingi qadamlarga teskari aloqani o‘z ichiga olgan sinab qo‘rish va xatoliklar jarayonini"
+      ]
+    },
+    {
+      "question": "Personaj har doim qanday traektoriya bo‘yicha harakatlanishi lozim?",
+      "answer": [
+        "Egri chiziqli traektoriya bo‘yicha",
+        "To‘g‘ri chiziqli traektoriya bo‘yicha",
+        "Teskari traektoriya bo‘yicha",
+        "Doiraviy traektoriya bo‘yicha"
+      ]
+    },
+    {
+      "question": "O‘zbek multiplikatsiya sohasida ilk 3D texnologiya asosida tayyorlangan multfilmni belgilang",
+      "answer": [
+        "Samoviy mehmon",
+        "Ur to‘qmoq",
+        "Quyosh yog‘dusi",
+        "Besh donishmand va farrosh kampir"
+      ]
+    },
+    {
+      "question": "\"O‘yinchoqlar hikoyasi\" multfilmi qaysi animasion studiya tomonidan tayyorlangan?",
+      "answer": [
+        "Pixar",
+        "Lucasfilm",
+        "Soyuzmultfilm",
+        "Dream Works"
+      ]
+    },
+    {
+      "question": "Suratga olish, kino nusxalarini chop etish va ovoz yozish uchun mo‘ljallangan shaffof egiluvchan substratdagi fotografik material bu - …?",
+      "answer": [
+        "Kinoplyonka",
+        "Plastinka",
+        "Kasseta",
+        "Multstanok"
+      ]
+    },
+    {
+      "question": "Kadrlar asosida multiplikatsiya tayyorlash texnologiyasi qachon ixtiro qilingan?",
+      "answer": [
+        "1914 yil",
+        "1920 yil",
+        "1917 yil",
+        "1922 yil"
+      ]
+    },
+    {
+      "question": "Qaysi jarayonda personaj modellariga suyak va muskullar joylashtirib chiqish amalga oshiriladi?",
+      "answer": [
+        "Rigging (jonlantirish)",
+        "Modellashtirish",
+        "Maket",
+        "Teksturalash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Convert to Editable Poly sahifasining asosiy xususiyatlariga nimalar kiradi?",
+      "answer": [
+        "Vertex, Edge, Border, Polygon, Element",
+        "Move, Ring, Grow, Quick Slice, Cut",
+        "Scale, Repeat, Vertex, Collapse",
+        "Rotate, Attach, Smooth, Scale"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Turbo Smooth buyrug‘i nima vazifani bajaradi?",
+      "answer": [
+        "Elementni silliqlash",
+        "Kattalashtirish",
+        "Elementlarni birlashtirish",
+        "Elementni bukish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Snaps Toggle buyrug‘ini ishlatish uchun klaviaturaning qaysi tugmasini bosish kerak?",
+      "answer": [
+        "S",
+        "Ctrl+T",
+        "A",
+        "T"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektlarga rasmli tekstura berish uchun qaysi buyruqdan foydalaniladi?",
+      "answer": [
+        "Bitmap",
+        "Cellular",
+        "Dent",
+        "Mix"
+      ]
+    },
+    {
+      "question": "Sodda multfilm tayyorlash jarayonlari ketma-ketligi to‘g‘ri keltirilgan qatorni belgilang.",
+      "answer": [
+        "G‘oya - Ssenariy - Raskadrovka - Animatsiya",
+        "Raskadrovka - Ovozlashtirish - Montaj",
+        "Animatsiya - Senariy - Raskadrovka - Montaj",
+        "Chizish - Harakatlantish - Ssenariy tuzish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida quyidagi qaysi element Systems bo‘limiga tegishli?",
+      "answer": [
+        "Bones",
+        "Box",
+        "Star",
+        "Helix"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida joriy holatda kamera o‘rnatish klaviaturaning qaysi tugmasi yordamida amalga oshiriladi?",
+      "answer": [
+        "Ctrl+C",
+        "Ctrl+D",
+        "Alt+X",
+        "Shift+T"
+      ]
+    },
+    {
+      "question": "Quyidagi qaysi element Extended Primitives bo‘limiga tegishli emas?",
+      "answer": [
+        "Sphere",
+        "ChamferBox",
+        "TankOil",
+        "Capsule"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Shell modifikatorining vazifasi nima?",
+      "answer": [
+        "Qalinlashtirish",
+        "O‘q bo‘yicha aylantirish",
+        "O‘q bo‘yicha burash",
+        "Texturani sozlash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Lathe modifikatorining vazifasi nima?",
+      "answer": [
+        "Shaklni o‘q bo‘yicha aylantirish",
+        "Shaklni o‘q bo‘yicha qayirish",
+        "Shaklni o‘q bo‘yicha ko‘chirish",
+        "Obyektni silliqlash"
+      ]
+    },
+    {
+      "question": "Quyidagi qaysi element Shapes bo‘limiga tegishli?",
+      "answer": [
+        "Line",
+        "Plane",
+        "Capsule",
+        "Box"
+      ]
+    },
+    {
+      "question": "UVW Mapping modifikatorining vazifasi nima?",
+      "answer": [
+        "Materiallarga ishlov berish",
+        "Rasm holatidagi material berish",
+        "Obyektni silliqlash",
+        "Obyektni bukish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Connect buyrug‘ining vazifasi nima?",
+      "answer": [
+        "Nuqta va chiziqlar orasiga qo‘shimcha chiziq o‘rnatish",
+        "Ortiqcha chiziqlarni olib tashlash",
+        "Ortiqcha nuqtalarni olib tashlash",
+        "Qarama-qarshi yuzalarni o‘stirib o‘zaro bog‘lash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Weld buyrug‘ining vazifasi nima?",
+      "answer": [
+        "Nuqtalarni birlashtirish",
+        "Nuqtalarni ajratish",
+        "Yuzalarni ajratish",
+        "Ortiqcha chiziqlarni olib tashlash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Extrude buyrug‘ining vazifasi nima?",
+      "answer": [
+        "Belgilangan sohani o‘stiradi yoki cho‘ktiradi",
+        "Belgilangan sohani xajmini kichraytiradi",
+        "Belgilangan sohada qo‘shimcha yuza hosil qiladi",
+        "Belgilangan sohani qirqib tashlaydi"
+      ]
+    },
+    {
+      "question": "3ds Max dasturida F3 tugmasi vazifasi?",
+      "answer": [
+        "Obektni karkasli yoki yuzali holatda ko‘rsatadi",
+        "Obektni front holatda ko‘rsatadi",
+        "Obekt uzunligini o‘zgartiradi",
+        "Obekt parametrlarini o‘zgartiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Melt modifikatorining vazifasi qanday?",
+      "answer": [
+        "Obyektni eritish",
+        "Obyektni bukish",
+        "Obyektni burash",
+        "Obyektni siqish va kengaytirish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektni textura bilan qoplash qaysi bo‘lim orqali amalga oshiriladi?",
+      "answer": [
+        "Material Editor",
+        "Modifier List",
+        "Time Configuration",
+        "Preferences"
+      ]
+    },
+    {
+      "question": "Standard Primitives bo‘limidagi elementlar to‘g‘ri ko‘rsatilgan qatorni belgilang.",
+      "answer": [
+        "Piramida, Sfera, Konus, Silindr",
+        "Sfera, Konus, Silindr, Ellips",
+        "Text, Konus, Silindr, Piramida",
+        "Sfera, Silindr, Ellips, Piramida"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektni muzlatib qo‘yish buyrug‘i qaysi?",
+      "answer": [
+        "Freeze selection",
+        "Hide selection",
+        "Isolate selection",
+        "End isolate"
+      ]
+    },
+    {
+      "question": "Tasvirlash jarayonining renderlash bosqichida qanday ishlar amalga oshiriladi?",
+      "answer": [
+        "Obyekt tavsifi aniq algoritm asosida tasvirga aylantiriladi",
+        "Sahnadagi obyektlar tavsifi maxsus kod asosida dasturga yuklanadi",
+        "Obyekt tavsifi oldindan aniqlangan algoritm asosida tasvirga aylantiriladi",
+        "Obyekt tavsifi sodda algoritm asosida tasvirga aylantiriladi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Map Schaler modefikatorining vazifasi qanday?",
+      "answer": [
+        "Texturani sozlash",
+        "Yangi textura hosil qilish",
+        "Shaffof textura hosil qilish",
+        "Obyektni silliqlash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida B-qisqa tugmasining vazifasi nima?",
+      "answer": [
+        "Ostki tomondan ko‘rsatish",
+        "Orqa tomondan ko‘rsatish",
+        "Chap tomondan ko‘rsatish",
+        "Tepa tomondan ko‘rsatish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Orbita funksiyasini faollashtirish tezkor tugmasi qaysi?",
+      "answer": [
+        "Ctrl+R",
+        "Ctrl+T",
+        "Ctrl+Q",
+        "Alt+Q"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Alt+W qisqa tugmachasining vazifasi qanday?",
+      "answer": [
+        "Proektsion oynalar bilan ishlash",
+        "Asosiy menyu bilan ishlash",
+        "Asosiy asboblar paneli bilan ishlash",
+        "Buyruqlar paneli bilan ishlash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Ctrl+X tezkor klavishining vazifasi nima?",
+      "answer": [
+        "Mutaxassis rejimi - derazalar va menyularni yashirish",
+        "Segmentlar bilan ishlash",
+        "Edit Poly bilan ishlash",
+        "Obyektni parchalash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Material Editor bo‘limidagi Bump funksiyasining vazifasi nima?",
+      "answer": [
+        "Texturani bo‘rttirib ko‘rsatadi",
+        "Texturani egib qo‘yadi",
+        "Texturani bukib qo‘yadi",
+        "Texturani parchalaydi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida qaysi qisqa tugma orqali viewportga rasm chaqiriladi?",
+      "answer": [
+        "Alt+B",
+        "Alt+Q",
+        "Shift+F",
+        "Alt+X"
+      ]
+    },
+    {
+      "question": "3D Max dasturidagi Alt+X qisqa tugmani vazifasi nima?",
+      "answer": [
+        "Obyektni shaffof ko‘rinishga keltirish",
+        "Nuqtalarni ko‘chirish",
+        "Segmentlarni sanash",
+        "Model kengligini ko‘rsatish"
+      ]
+    },
+    {
+      "question": "O‘zbek multiplikatsiyasi «otasi» deb kimga ta'rif beriladi?",
+      "answer": [
+        "Yu.Petrov va D.Salimov",
+        "V.Kotyonochkin",
+        "P.Sazonov va L.Bredis",
+        "S.Lyukashin"
+      ]
+    },
+    {
+      "question": "Soyuzmultfilmga tegishli bo‘lgan multfilmni belgilang.",
+      "answer": [
+        "O‘g‘irlangan quyosh (1944)",
+        "Eski tegirmon (1937)",
+        "Skeletlar o‘yini (1929)",
+        "Dinazavr Gerti (1924)"
+      ]
+    },
+    {
+      "question": "Amerikalik animator Makkeyning dastlabki ishi qaysi multfilm bo‘lgan?",
+      "answer": [
+        "Kichkina Nemo",
+        "Mickey Mouse",
+        "Yoqimtoy Lyukanida yoki qo‘ng‘iz bilan urush",
+        "Dinozavr Gerti"
+      ]
+    },
+    {
+      "question": "Multiplikatsiya sohasining yuzaga kelishida qaysi san'at turining rivojlanishi sabab bo‘ldi?",
+      "answer": [
+        "Rassomchilik",
+        "Haykaltaroshlik",
+        "Musiqa",
+        "Raqs"
+      ]
+    },
+    {
+      "question": "Rus animatori Aleksandr Alekseyev tomonidan ixtiro qilingan ekzotik multiplikatsiya turini tanlang",
+      "answer": [
+        "Ignali",
+        "Soyali",
+        "Maketli",
+        "Qo‘g‘irchoqli"
+      ]
+    },
+    {
+      "question": "3Ds Maxda Twist modifikatori nima vazifani bajaradi?",
+      "answer": [
+        "Obyektni burash uchun ishlatiladi",
+        "Obyektni eritish uchun ishlatiladi",
+        "Obyektni bukish uchun ishlatiladi",
+        "Obyektni teskari o‘girish uchun ishlatiladi"
+      ]
+    },
+    {
+      "question": "Yugurayotgan odamning qo‘llarini tebranishi, oyoq harakati va boshning chayqalishi qanday harakatni ifodalaydi?",
+      "answer": [
+        "Ikkilamchi harakat",
+        "Yoy bo‘ylab harakat",
+        "To‘ppa-to‘g‘ri harakat",
+        "To‘g‘ri chiziqli harakat"
+      ]
+    },
+    {
+      "question": "Agar asosiy kadrlarni vaqt shkalasida bir-biriga yaqin qilib joylashtirilsa qanday holat kuzatiladi?",
+      "answer": [
+        "Harakat tezkor va keskin bo‘ladi",
+        "Harakat bir holatdan boshqasiga tezkor burilib o‘tadi",
+        "Sahnadagi vaziyat tezkor o‘zgaradi",
+        "Notekis harakatlar kuzatiladi"
+      ]
+    },
+    {
+      "question": "3Ds Maxda Shapes bo‘limida mavjud bo‘lmagan primitivni toping.",
+      "answer": [
+        "Tube",
+        "Line",
+        "Ellipce",
+        "Text"
+      ]
+    },
+    {
+      "question": "3D modellashtirish sohasida nisbatan yangi dasturni belgilang.",
+      "answer": [
+        "Blender",
+        "Illustrator",
+        "3Ds Max",
+        "Adobe Flash"
+      ]
+    },
+    {
+      "question": "Qaysi klavisha orqali Adobe Flash dasturida kalit kadr hosil qilish mumkin?",
+      "answer": [
+        "F6",
+        "F8",
+        "F9",
+        "F7"
+      ]
+    },
+    {
+      "question": "Adobe Flashning Actions bo‘limidagi Code Snippetsda nimalar mavjud?",
+      "answer": [
+        "Action Scriptning tayyor kodlari va buyruqlari",
+        "Tayyor obyеkt shablonlari",
+        "Animatsiyaning tayyor shablonlari",
+        "Rang sozlamalari"
+      ]
+    },
+    {
+      "question": "2D multfilmni animatsion amaliy dasturlari orasida eng professional deb hisoblanadigan dasturni belgilang",
+      "answer": [
+        "Adobe flash (Adobe Animate)",
+        "Autodesk 3Ds Max",
+        "Papgayo",
+        "Toon Boom Studio"
+      ]
+    },
+    {
+      "question": "Personaj tayyorlanish jarayoniga tegishli bosqichni belgilang",
+      "answer": [
+        "Teksturalash",
+        "Ssenariy",
+        "Ovozlashtirish",
+        "Montaj"
+      ]
+    },
+    {
+      "question": "Sahna uchun tayyorlangan chizmalarning ketma-ketligi bu - …?",
+      "answer": [
+        "Raskadrovka",
+        "Teksturalash",
+        "Rigging",
+        "Modellashtirish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida G tugmasining vazifasi nima?",
+      "answer": [
+        "Setkani o‘chirish",
+        "To‘liq ekran qilish",
+        "Oynani vaqtincha yopib qo‘yish",
+        "Hech qanday o‘zgarish bo‘lmaydi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida qaysi buyruq yordamida obyektlar bir-biri bilan birlashtiriladi?",
+      "answer": [
+        "Attach",
+        "Grow",
+        "Element",
+        "Repeat"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektlarning shakllarini turli xil ko‘rinishga kеltirish uchun .... dan foydalaniladi.",
+      "answer": [
+        "Modifikatorlar",
+        "Mеnyular panеli",
+        "Uskunalar panеli",
+        "Timeline"
+      ]
+    },
+    {
+      "question": "Vektorli grafika hosil qilish dasturlarini aniqlang?",
+      "answer": [
+        "Animate, Corel Draw",
+        "Adobe Photoshop, Paint",
+        "Corel Draw, Maya",
+        "Adobe Photoshop, Corel Draw"
+      ]
+    },
+    {
+      "question": "Uch o‘lchovli modellashtirilgan obyektlarni vizullashtirish jarayoni nima deyiladi?",
+      "answer": [
+        "Render",
+        "Animatsiya",
+        "Rigging",
+        "Textura"
+      ]
+    },
+    {
+      "question": "Multfilm tayyorlash jarayonida ishtirok etmaydigan mutaxassisni tanlang.",
+      "answer": [
+        "Grim ustasi",
+        "Animator",
+        "Rassom",
+        "Rejjisyor"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Render sozlamalari oynasi klaviaturaning qaysi tugmasi yordamida ishga tushiriladi?",
+      "answer": [
+        "F10",
+        "F8",
+        "F9",
+        "F2"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Material Editor oynasi klaviaturaning qaysi tugmasi yordamida ishga tushiriladi?",
+      "answer": [
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
+    },
+    {
+      "question": "Quyidagi qaysi element Standard Primitives bo‘limiga tegishli emas?",
+      "answer": [
+        "Circle",
+        "Box",
+        "Cylinder",
+        "Plane"
+      ]
+    },
+    {
+      "question": "Animatronika yo‘nalishini qanday tizim sifatida tushuniladi?",
+      "answer": [
+        "Qo‘g‘irchoqlar yoki texnik vositalarni avtomatik boshqarish",
+        "Ikki o‘lchovli makonda virtual obrazni boshqarish",
+        "Ikki va uch o‘lchovli makonda virtual obrazni boshqarish",
+        "Hech bir dasturiy vosita ishtirokisiz mexanik qurilmani boshqarish"
+      ]
+    },
+    {
+      "question": "An’anaviy multiplikatsiya mahsulotlar qanday turlarga bo‘linadi?",
+      "answer": [
+        "Hajmli, tekislikdagi va relyefli",
+        "Hajmli, tekislikdagi va soyali",
+        "2D va 3D",
+        "Hajmli, ignali va relyefli"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Displace modifikatorining vazifasi qanday?",
+      "answer": [
+        "Obyektni ustida tasvirni bo‘rttirib chiqarish",
+        "Obyektni x, y, z o‘qi bo‘yicha siqish va kengaytirish",
+        "Obyektni x, y, z o‘qi bo‘yicha bukish",
+        "Obyektni eritish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Align buyrug‘ining vazifasi nima?",
+      "answer": [
+        "Bir obyektni ikkinchi obyektga nisbatan tekislaydi",
+        "Obyektni x, y, z o‘qi bo‘yicha aksini o‘giradi",
+        "Obyektni textura bilan qoplashda ishlatiladi",
+        "Obyektni x, y, z o‘qi bo‘yicha siqish va kengaytirish"
+      ]
+    },
+    {
+      "question": "Kompyuter multiplikatsiya mahsulotlar qanday texnologiyalar asosida amalga oshiriladi?",
+      "answer": [
+        "2D va 3D",
+        "2D",
+        "3D",
+        "4D"
+      ]
+    },
+    {
+      "question": "Quyidagi grafik dasturlarning qaysi birida animatsiya tayyorlash mumkin?",
+      "answer": [
+        "Adobe Flash, 3Ds Max, CINEMA 4D",
+        "AutoCad, 3Ds Max, Maya",
+        "AutoCad, CorelDraw, After Effects",
+        "Adobe Flash, CINEMA 4D, Corel Draw"
+      ]
+    },
+    {
+      "question": "Animatsiyaning muhim tamoyillari nechanchi yilda ishlab chiqilgan?",
+      "answer": [
+        "1930-yil",
+        "1939-yil",
+        "1914-yil",
+        "1877-yil"
+      ]
+    },
+    {
+      "question": "Animatsiyaning birinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Zichlash va kengaytirish",
+        "Tayyorlanish",
+        "Sahnaboplik",
+        "Yoy bo‘ylab harakat"
+      ]
+    },
+    {
+      "question": "Animatsiyaning ikkinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Tayyorlanish",
+        "Sahnaboplik",
+        "Zichlash va kengaytirish",
+        "Yoy bo‘ylab harakat"
+      ]
+    },
+    {
+      "question": "Animatsiyaning uchinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Sahnaboplik",
+        "Yoy bo‘ylab harakat",
+        "Tayyorlanish",
+        "Zichlash va kengaytirish"
+      ]
+    },
+    {
+      "question": "Animatsiyaning to‘rtinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Kompanovkalardan foydalanish",
+        "Yoy bo‘ylab harakat",
+        "Ikkilamchi harakat",
+        "Zichlash va kengaytirish"
+      ]
+    },
+    {
+      "question": "Animatsiyaning beshinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "To‘g‘ri harakat va harakatni egallanishi",
+        "Yoy bo‘ylab harakat",
+        "Ikkilamchi harakat",
+        "Kompanovkalardan foydalanish"
+      ]
+    },
+    {
+      "question": "Animatsiyaning oltinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Harakat boshlanishi va tugashini sekinlatish",
+        "Yoy bo‘ylab harakat",
+        "Ikkilamchi harakat",
+        "Kompanovkalardan foydalanish"
+      ]
+    },
+    {
+      "question": "Animatsiyaning yettinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Yoy bo‘ylab harakat",
+        "Kompanovkalardan foydalanish",
+        "Ikkilamchi harakat",
+        "Harakat boshlanishi va tugashini sekinlatish"
+      ]
+    },
+    {
+      "question": "Animatsiyaning sakkizinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Ikkilamchi harakat",
+        "Kompanovkalardan foydalanish",
+        "Yoy bo‘ylab harakat",
+        "Harakat boshlanishi va tugashini sekinlatish"
+      ]
+    },
+    {
+      "question": "Harakat boshlanishi va tugashini sekinlatish",
+      "answer": [
+        "Vaqtni belgilash",
+        "Kompanovkalardan foydalanish",
+        "Yoy bo‘ylab harakat",
+        "Harakat boshlanishi va tugashini sekinlatish"
+      ]
+    },
+    {
+      "question": "Animatsiyaning o‘ninchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Bo‘rttirib ko‘rsatish",
+        "Vaqtni belgilash",
+        "Kompanovkalardan foydalanish",
+        "Yoy bo‘ylab harakat"
+      ]
+    },
+    {
+      "question": "Animatsiyaning o‘n birinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Professional rasm",
+        "Bo‘rttirib ko‘rsatish",
+        "Vaqtni belgilash",
+        "Kompanovkalardan foydalanish"
+      ]
+    },
+    {
+      "question": "Animatsiyaning o‘n ikkinchi tamoyili qanday nomlanadi?",
+      "answer": [
+        "Jozibadorlik",
+        "Bo‘rttirib ko‘rsatish",
+        "Vaqtni belgilash",
+        "Kompanovkalardan foydalanish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Spacing tool (Fazoga xos uskuna) ni faollashtirish qaysi tugma yordamida amalga oshiriladi?",
+      "answer": [
+        "Shift+I",
+        "Shift+Q",
+        "Ctrl+L",
+        "Ctrl+M"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Spacing tool (Fazoga xos uskuna) ning vazifasi nima?",
+      "answer": [
+        "Belgilangan yo‘l bo‘yicha uch o‘lchovli obyektni joylashtirish imkonini beradi",
+        "Belgilangan obyektni ma’lum koordinataga suradi",
+        "Belgilangan obyektni shaffoflik darajasini ko‘rsatadi",
+        "Belgilangan obyektni qismlarga ajratadi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Customize (Sozlash) funksiyasining vazifasi nima?",
+      "answer": [
+        "Dastur parametri va interfeysi elementlarini sozlash ",
+        "Obyekt koordinatalarini sozlash",
+        "Obyekt ranglarini sozlash",
+        "Render oynasini sozlash"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Select and Link funksiyasining vazifasi qanday?",
+      "answer": [
+        "Obyektlarni bir-biri bilan bog‘lashga xizmat qiladi",
+        "Obyektlarni vaqt shkalasi bilan bog‘lashga xizmat qiladi",
+        "Ranglarni bir-biri bilan bog‘lashga xizmat qiladi",
+        "Obyekt koordinatalarini sozlaydi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Unlink Selection funksiyasining vazifasi qanday?",
+      "answer": [
+        "Obyeklar o‘rtasidagi aloqani uzishga xizmat qiladi",
+        "Vaqt shkalasidagi kadrlar orasini ajratishga xizmat qiladi",
+        "Obyektni yuklangan rang va texturalarni ajratishga xizmat qiladi",
+        "Obyekt koordinatalarini sozlaydi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Select Object funksiyasi qaysi tezkor tugma orqali ishga tushiriladi?",
+      "answer": [
+        "Q",
+        "S",
+        "P",
+        "G"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Select by name funksiyasi qaysi tezkor tugma orqali ishga tushiriladi?",
+      "answer": [
+        "H",
+        "S",
+        "P",
+        "J"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Select and Move funksiyasi qaysi tezkor tugma orqali ishga tushiriladi?",
+      "answer": [
+        "W",
+        "S",
+        "A",
+        "J"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Select and Rotate funksiyasi qaysi tezkor tugma orqali ishga tushiriladi?",
+      "answer": [
+        "E",
+        "S",
+        "A",
+        "B"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Select and Scale funksiyasi qaysi tezkor tugma orqali ishga tushiriladi?",
+      "answer": [
+        "R",
+        "S",
+        "A",
+        "P"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Alt+Z tezkor tugmasining vazifasi qanday?",
+      "answer": [
+        "Zoom (kattalashtirish / kichraytirish)",
+        "Obyektni muzlatish",
+        "Kamerani ishga tushirish",
+        "Proeksion oynalar bilan ishlash"
+      ]
+    },
+    {
+      "question": "Poligonal setkani qaysi bo‘yash metodida tasviri realroq bo‘ladi?",
+      "answer": [
+        "Guro metodi",
+        "Fong metodi",
+        "Diffuzion akslantirish",
+        "Affin metodi"
+      ]
+    },
+    {
+      "question": "To‘g‘ri chiziq kesmalari qanday modelda obyekt sirtlarini ifodalash uchun ishlatiladi?",
+      "answer": [
+        "Karkasli modelda",
+        "Sirtli modelda",
+        "Vektor modelda",
+        "Voksel modelda"
+      ]
+    },
+    {
+      "question": "Additiv rang modelida nima kuzatiladi?",
+      "answer": [
+        "Alohida rang yorqinligi oshirilganda natijaviy rang yorug‘ bo‘lishligi",
+        "Alohida rang yorqinligi oshirilganda natijaviy rang yorug‘ bo‘lmasligi",
+        "Obyektga tushiriladigan yorug‘lik intensivligi oshirilganda obyektning yorqin bo‘lishligi",
+        "Obyektga tushadigan rang shaffofligi pasaytirilganda natijaviy rang yorug‘ bo‘lishligi"
+      ]
+    },
+    {
+      "question": "Subtraktiv rang modelida nima kuzatiladi?",
+      "answer": [
+        "Alohida rang yorqinligi oshirilganda yakuniy rang qorayadi",
+        "Alohida rang yorqinligi oshirilganda natijaviy rang yorug‘ bo‘ladi",
+        "Alohida rang yorqinligi oshirilganda yakuniy rang oqaradi",
+        "Alohida rang yorqinligi oshirilganda yakuniy rang moviy tus oladi"
+      ]
+    },
+    {
+      "question": "Animatsiyani ishlab chiqish bosqichlaridagi matn bloklari bo‘limiga qanday ishlar tegishli?",
+      "answer": [
+        "Raskadrovka ishlab chiqiladi",
+        "Film uchun dizayn yaratiladi va rang o‘rganiladi",
+        "Film ikki o‘lchovlidan uch o‘lchovli ko‘rinishga olib o‘tiladi",
+        "Mavjud obrazlar va sahnaning uch o‘lchovli modeli ishlab chiqiladi"
+      ]
+    },
+    {
+      "question": "Animatsiyani ishlab chiqish bosqichlaridagi san’at bo‘limiga qanday ishlar tegishli?",
+      "answer": [
+        "Film uchun dizayn yaratiladi va rang o‘rganiladi",
+        "Raskadrovka ishlab chiqiladi",
+        "Film ikki o‘lchovlidan uch o‘lchovli ko‘rinishga olib o‘tiladi",
+        "Ssenariy yoziladi va rassomlar obrazlarni shakllantiradi"
+      ]
+    },
+    {
+      "question": "Animatsiyani ishlab chiqish bosqichlaridagi modellashtirish bo‘limiga qanday ishlar tegishli?",
+      "answer": [
+        "Mavjud obrazlar va sahnaning uch o‘lchovli modeli ishlab chiqiladi",
+        "Ssenariy yoziladi va raskadrovka ishlab chiqiladi",
+        "Film uchun dizayn yaratiladi va rang o‘rganiladi",
+        "Film ikki o‘lchovlidan uch o‘lchovli ko‘rinishga olib o‘tiladi"
+      ]
+    },
+    {
+      "question": "Animatsiyani ishlab chiqish bosqichlaridagi komponovka bo‘limiga qanday ishlar tegishli?",
+      "answer": [
+        "Film ikki o‘lchovlidan uch o‘lchovli ko‘rinishga olib o‘tiladi",
+        "Ssenariy yoziladi va raskadrovka ishlab chiqiladi",
+        "Film uchun dizayn yaratiladi va rang o‘rganiladi",
+        "Mavjud obrazlar va sahnaning uch o‘lchovli modeli ishlab chiqiladi"
+      ]
+    },
+    {
+      "question": "Animatsiyani ishlab chiqish bosqichlaridagi yoritish bo‘limining vazifasi nimadan iborat?",
+      "answer": [
+        "Buyruqlarning har bir ketma-ketligini o‘zlashtiradi va san’at bo‘limida ko‘rilganlarni raqamli voqelikka o‘tkazishga javob beradi",
+        "Obyektning tashqi ko‘rinishiga tegishli atributlarini tekstura xaritasiga ko‘chirib o‘tadi",
+        "Obrazlarda ishlatiladigan yagona qiyofa ko‘rinishini rivojlantiradi va sahna obyektlariga yorug‘liklarni aks ettiradi",
+        "Mavjud obrazlar va sahnaning uch o‘lchovli modeli ishlab chiqish, hamda ularga yorug‘liklar tushirishga javob beradi"
+      ]
+    },
+    {
+      "question": "Geometrik primitiv nima?",
+      "answer": [
+        "Obyektlarni qurish uchun ishlatiladigan formal tavsifga ega sodda geometrik shakllar",
+        "Obyektlarni qurish uchun ishlatiladigan murakkab tuzilishga ega geometrik shakllar",
+        "Obyektlarni qurish uchun ishlatiladigan formal tavsifga ega murakkab geometrik shakllar",
+        "Obyektlarni qurish uchun ishlatiladigan sodda geometrik shakllar"
+      ]
+    },
+    {
+      "question": "Ekzotik multiplikatsiya mahsulotlar turini belgilang",
+      "answer": [
+        "Ignali",
+        "Soyali",
+        "Qo‘g‘irchoqli",
+        "Plastilinli"
+      ]
+    },
+    {
+      "question": "Morfing metodidan qanday maqsadda foydalaniladi?",
+      "answer": [
+        "Ko‘pgina filmlar va televizion reklama roliklarida kuchli ta'sir o‘tkazish uchun foydalaniladi",
+        "Asosan kinofilmlarda reytingni oshirish uchun foydalaniladi",
+        "Asosan multfilmlar, televizion reklama roliklari, kompyuter o‘yinlarini sahnabopligini oshirish uchun",
+        "Mavjud personaj qiyofasini real jarayonga yaqinlashtirish uchun"
+      ]
+    },
+    {
+      "question": "Notekis to‘r deb nimaga aytiladi?",
+      "answer": [
+        "Sirtda yotuvchi alohida nuqtalar to‘plami ko‘rinishida sirtni tasvirlash modeli",
+        "Sirtda yotuvchi bir qancha nuqtalar to‘plami ko‘rinishida sirtni tasvirlash modeli",
+        "Fazoda yotuvchi alohida nuqtalar to‘plami ko‘rinishida fazoni tasvirlash modeli",
+        "Sirtda yotuvchi alohida nuqtalar to‘plami ko‘rinishida to‘rni tasvirlash modeli"
+      ]
+    },
+    {
+      "question": "Qaysi splayn egri chiziqlari 4 ta tayanuvchi nuqtalar bilan beriladi?",
+      "answer": [
+        "Ermit, Beze, B-splayn",
+        "B-splayn, Ermit, Beta-splayn",
+        "Beze, B-splayn, Beta-splayn",
+        "Beze, Ermit, Beta-splayn"
+      ]
+    },
+    {
+      "question": "Qaysi splayn egri chizig‘i ikki tayanuvchi nuqta va shu nuqtalardagi urunuvchi vektorlar bilan beriladi?",
+      "answer": [
+        "Beze egri chizig‘i",
+        "Ermit egri chizig‘i",
+        "B-splayn egri chizig‘i",
+        "Beta-splayn egri chizig‘i"
+      ]
+    },
+    {
+      "question": "Extended primitives (kengaytirilgan primitivlar) bo‘limiga tegishli elementni toping.",
+      "answer": [
+        "Capsule",
+        "Box",
+        "Arc",
+        "Pyramid"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektni yashirib qo‘yish buyrug‘i qaysi?",
+      "answer": [
+        "Hide selection",
+        "Freeze selection",
+        "Isolate selection",
+        "End isolate"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida yashirilgan barcha obyektlarni ko‘rsatish buyrug‘i qaysi?",
+      "answer": [
+        "Unhide All",
+        "Unfreeze All",
+        "Hide selection",
+        "Freeze selection"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida qaysi buyruq yordamida o‘zaro birlashtirilgan obyektlarni bir-biridan ajratiladi?",
+      "answer": [
+        "Detach",
+        "Grow",
+        "Group",
+        "Explode"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektlarni birlashtirish uchun Boolean funksiyasining qaysi buyrug‘idan foydalaniladi?",
+      "answer": [
+        "Union ",
+        "Intersection",
+        "Subtraction",
+        "Cut"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida olingan obyekt o‘zida dastlabki obyektlar kesishishi natijasini ifodalashi uchun Boolean funksiyasining qaysi buyrug‘idan foydalaniladi?",
+      "answer": [
+        "Intersection",
+        "Union",
+        "Subtraction",
+        "Cut"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Scatter buyrug‘i qanday vazifani bajaradi?",
+      "answer": [
+        "Bir obyektning ko‘pgina nusxalarini boshqa obyekt sirtiga joylashtirish imkonini beradi",
+        "Bir nechta obyektlarni to‘g‘ri chiziq bo‘ylab joylashtirish imkonini beradi",
+        "Bir nechta obyektlarni o‘zaro bog‘laydi",
+        "Obyektni ko‘rsatilgan chiziq bo‘ylab harakatlanishini ta’minlaydi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida ShapeMerge buyrug‘i qanday vazifani bajaradi?",
+      "answer": [
+        "Uch o‘lchovli obyektda turli splaynlarni kesib olish imkonini beradi",
+        "Bir obyektning ko‘pgina nusxalarini boshqa obyekt sirtiga joylashtirish imkonini beradi",
+        "Bir nechta obyektlarni to‘g‘ri chiziq bo‘ylab joylashtirish imkonini beradi",
+        "Obyektni ko‘rsatilgan chiziq bo‘ylab harakatlanishini ta’minlaydi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Affect Region modifikatorining vazifasi qanday?",
+      "answer": [
+        "Obyekt sathi qismini deformatsiyalaydi, unga qavariq shaklni hosil qiladi",
+        "Obyektni o‘q bo‘yicha aylantiradi",
+        "Obyektlarni turli o‘qlar bo‘yicha egish imkonini beradi",
+        "Turli o‘qlar bo‘yicha silliqlash jarayonini bajaradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Bevel modifikatorining vazifasi qanday?",
+      "answer": [
+        "Splaynni bo‘rttirib chiqarib, uni hajmli qilish imkonini beradi",
+        "Obyekt sathi qismini deformatsiyalaydi, unga qavariq shaklni hosil qiladi",
+        "Obyektni o‘q bo‘yicha aylantiradi",
+        "Obyektlarni turli o‘qlar bo‘yicha egish imkonini beradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Displace modifikatorining vazifasi qanday?",
+      "answer": [
+        "Obyektga rastrli tasvir belgisini tushirish mumkin",
+        "Splaynni bo‘rttirib chiqarib, uni hajmli qilish mumkin",
+        "Obyekt sathi qismini deformatsiyalash mumkin",
+        "Obyektlarni turli o‘qlar bo‘yicha egish mumkin"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida FFD 3x3x3 modifikatorining vazifasi qanday?",
+      "answer": [
+        "Obyekt atrofida nazorat nuqtalari bilan berilgan panjara orqali obyekt shaklini o‘zgartirish mumkin",
+        "Obyektga rastrli tasvir belgisini tushirish mumkin",
+        "Splaynni bo‘rttirib chiqarib, uni hajmli qilish mumkin",
+        "Obyektlarni turli o‘qlar bo‘yicha egish mumkin"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Fillet/Chamfer modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Splayn uchlarida yumaloqlash va charhlashlarni belgilaydi",
+        "Obyekt atrofida nazorat nuqtalari bilan berilgan panjara orqali obyekt shaklini o‘zgartiradi",
+        "Obyektga rastrli tasvir belgisini tushiradi",
+        "Obyektlarni turli o‘qlar bo‘yicha qayiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Lattice modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyekt geometriyasini o‘zgartiradi, uning uchlari va yoqlaridan panjara yasaydi",
+        "Splayn uchlarida yumaloqlash va charhlashlarni belgilaydi",
+        "Obyektga rastrli tasvir belgisini tushiradi",
+        "Obyektlarni turli o‘qlar bo‘yicha qayiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida MeshSmooth modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyekt geometriyasini o‘zgartirib uni silliqlaydi",
+        "Splayn uchlarida yumaloqlash va charhlashlarni belgilaydi",
+        "Obyektga rastrli tasvir belgisini tushiradi",
+        "Obyektlarni turli o‘qlar bo‘yicha qayiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Noise modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Tasodifiy ko‘rinishda obyekt uchlari va yuzasi shaklini o‘zgartirib notekis yuza hosil qiladi",
+        "Splayn uchlarida yumaloqlash va charhlashlarni belgilaydi",
+        "Obyektga rastrli tasvir belgisini tushiradi",
+        "Splaynni bo‘rttirib chiqarib, uni hajmli qilish mumkin"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Optimize modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyekt geometriyasini soddalashtirib, poligonlar sonini qisqartiradi",
+        "Splayn uchlarida yumaloqlash va charhlashlarni belgilaydi",
+        "Obyektga rastrli tasvir belgisini tushiradi",
+        "Splaynni bo‘rttirib chiqarib, uni hajmli ko‘rinishga keltiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Relax modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyekt uchlarini tortib uning geometriyasini o‘zgartiradi",
+        "Obyekt geometriyasini soddalashtirib, poligonlar sonini qisqartiradi",
+        "Obyektga rastrli tasvir belgisini tushiradi",
+        "Splaynni bo‘rttirib chiqarib, uni hajmli ko‘rinishga keltiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Ripple modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyektga bitta umumiy markazga ega bo‘lgan aylanalar yaratish",
+        "Obyekt geometriyasini soddalashtirib, poligonlar sonini qisqartiradi",
+        "Obyektga rastrli tasvir belgisini tushiradi",
+        "Splaynni bo‘rttirib chiqarib, uni hajmli ko‘rinishga keltiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Skew modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyektni turli o‘qlar bo‘yicha engashtiradi",
+        "Obyektga bitta umumiy markazga ega bo‘lgan aylanalar yaratish",
+        "Obyekt geometriyasini soddalashtirib, poligonlar sonini qisqartiradi",
+        "Obyektga rastrli tasvir belgisini tushiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Squeeze modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyektga siqish effektini hosil qiladi",
+        "Obyektni turli o‘qlar bo‘yicha engashtiradi",
+        "Obyektga bitta umumiy markazga ega bo‘lgan aylanalar yaratish",
+        "Obyekt geometriyasini soddalashtirib, poligonlar sonini qisqartiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Stretch modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Tanlangan o‘qlardan biri bo‘yicha obyektni yassilaydi va cho‘zadi",
+        "Obyektga siqish effektini hosil qiladi",
+        "Obyektni turli o‘qlar bo‘yicha engashtiradi",
+        "Obyektga bitta umumiy markazga ega bo‘lgan aylanalar yaratish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Sweep modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Tanlangan kesim yoki shaklni splayn yo‘li bo‘yicha chiqaradi",
+        "Tanlangan o‘qlardan biri bo‘yicha obyektni yassilaydi va cho‘zadi",
+        "Obyektga siqish effektini hosil qiladi",
+        "Obyektni turli o‘qlar bo‘yicha engashtiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Taper modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Turli o‘qlar bo‘yicha obyektni simmetrik toraytirish imkonini beradi",
+        "Tanlangan kesim yoki shaklni splayn yo‘li bo‘yicha chiqaradi",
+        "Tanlangan o‘qlardan biri bo‘yicha obyektni yassilaydi va cho‘zadi",
+        "Obyektga siqish effektini hosil qiladi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Tessellate modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "Obyekt yoqlarini bo‘ladi, ularning sonini ko‘paytiradi va obyektni silliqlaydi",
+        "To‘lqinsimon sirtni hosil qiladi",
+        "Tanlangan kesim yoki shaklni splayn yo‘li bo‘yicha chiqaradi",
+        "Obyektga rastrli tasvir belgisini tushiradi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Wave modifikatori qanday vazifani bajaradi?",
+      "answer": [
+        "To‘lqinsimon sirtni hosil qiladi",
+        "Tanlangan kesim yoki shaklni splayn yo‘li bo‘yicha chiqaradi",
+        "Tanlangan o‘qlardan biri bo‘yicha obyektni yassilaydi va cho‘zadi",
+        "Obyektga siqish effektini hosil qiladi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Create Line buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Quyi obyektlarni tahrirlash jarayonida splaynlar hosil qiladi",
+        "Splayn egriligini o‘zgartirmasdan uchlar qo‘shadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Break buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Splayn uchlari o‘rtasida joyni o‘zgartirish imkonini berali",
+        "Splayn egriligini o‘zgartirmasdan uchlar qo‘shadi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Attach buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Tanlangan splaynga boshqasini ulaydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Splayn egriligini o‘zgartirmasdan uchlar qo‘shadi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Cross Section buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Bir qancha Spline quyi obyektlarni o‘zaro bir-biri bilan ulash imkonini beradi",
+        "Splayn egriligini o‘zgartirmasdan uchlar qo‘shadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Refine buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Splayn egriligini o‘zgartirmasdan uchlar qo‘shadi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Insert buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Bir qancha uchlarni qo‘shish imkonini beradi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Splayndagi uchlarni birlashtiradi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Weld buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Splayndagi uchlarni birlashtiradi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Tanlangan splaynga boshqasini ulaydi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Connect buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Splayndagi ikkita uchlarni bog‘laydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Tanlangan splaynga boshqasini ulaydi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Make First buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Splayndagi ikkita uchlarni bog‘laydi",
+        "Tanlangan splaynga boshqasini ulaydi"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Cycle buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Splayn uchlari o‘rtasida joyni o‘zgartirish imkonini beradi",
+        "Tanlangan splaynga boshqasini ulaydi",
+        "Splayndagi ikkita uchlarni bog‘laydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi"
+      ]
+    },
+    {
+      "question": "Grafik primitiv nima?",
+      "answer": [
+        "Sodda tasvir bo‘lib, ularni shakllantirish uchun grafik tizim maxsus apparat blokka ega",
+        "Murakkab tasvir bo‘lib, ularni shakllantirish uchun grafik tizim maxsus apparat blokka ega",
+        "Bir necha tasvirlarni shakllantirish uchun grafik tizim maxsus apparat blokka ega",
+        "Sodda obyekt bo‘lib, ularni shakllantirish uchun grafik tizim maxsus apparat blokka ega"
+      ]
+    },
+    {
+      "question": "Qattiq jism modellari qanday obyektlarni ifodalaydi?",
+      "answer": [
+        "uzluksiz jism ko‘rinishidagi obyektlarni",
+        "uzlukli jism ko‘rinishidagi obyektlarni",
+        "o‘zaro bog‘liq obyektlarni",
+        "sohaning turli tomonlaridagi obyektlarni"
+      ]
+    },
+    {
+      "question": "Nolinchi darajali ifoda ...",
+      "answer": [
+        "nuqta uchun xarakterlidir",
+        "obyekt uchun xarakterlidir",
+        "primitiv uchun xarakterlidir",
+        "qattiq jism uchun xarakterlidir"
+      ]
+    },
+    {
+      "question": "Birinchi darajali ko‘phad nimaga qarab fazoda to‘g‘ri chiziqni yoki tekislikni ifodalaydi?",
+      "answer": [
+        "fazoviy elementlar (voksellar) majmuasi",
+        "poligonal to‘rlar orqali",
+        "o‘zaro bog‘liq obyektlar",
+        "qattiq jismli obyektlar"
+      ]
+    },
+    {
+      "question": "Qanday modellarda tekisliklar bilan chegaralangan yarim fazolar primitivlar bo‘lib xizmat qilishi mumkin?",
+      "answer": [
+        "qattiq jismli modellarda",
+        "karkasli modelda",
+        "sirtli modelda",
+        "jadvalli modelda"
+      ]
+    },
+    {
+      "question": "Analitik modellar obyektni qanday ifodalar yordamida tasvirlaydi?",
+      "answer": [
+        "analitik",
+        "fazoviy koordinatalar elementlari",
+        "analitik va mantiqiy",
+        "bo‘lakli analitik"
+      ]
+    },
+    {
+      "question": "Bo‘lakli analitik model qanday ifodalanadi?",
+      "answer": [
+        "analitik",
+        "fazoviy koordinatalar elementlari",
+        "analitik va mantiqiy",
+        "bo‘lakli analitik"
+      ]
+    },
+    {
+      "question": "Tasvirlash jarayonining tayyorlov bosqichida qanday ishlar amalga oshiriladi?",
+      "answer": [
+        "Sahnadagi obyektlar tavsifi tuziladi, kodlanadi va grafik tizimga kiritiladi",
+        "Sahnadagi obyektlar tavsifi tuziladi, kodlanadi va grafik tizimga kiritiladi, dastur ishga tushiriladi",
+        "Sahnadagi obyektlar tavsifi ishlab chiqiladi, kodlanadi va dastur ishga tushiriladi",
+        "Sahnadagi obyektlar tavsifi tuziladi, maxsus kod yoziladi va grafik tizimga kiritiladi"
+      ]
+    },
+    {
+      "question": "Kuzatuvchiga ko‘rinmaydigan obyektlar va ularning qismlari qanday aniqlanadi?",
+      "answer": [
+        "Qirqib olish amali yordamida",
+        "Qayta tasvirlash amali yordamida",
+        "Sohadan ajratib olish amali yordamida",
+        "Sohalarni birlashtirish yordamida"
+      ]
+    },
+    {
+      "question": "Interaktiv grafikada odatda primitivlar sifatida nimadan foydalaniladi?",
+      "answer": [
+        "Qirralari bilan beriladigan tekis poligonlardan",
+        "Qirralari bilan beriladigan tekis sirtlardan",
+        "Qirralari va yoqlari bilan beriladigan tekis poligonlardan",
+        "Yoqlari bilan beriladigan tekis poligonlardan"
+      ]
+    },
+    {
+      "question": "Bir qancha vektorlar nimani tashkil etadi?",
+      "answer": [
+        "Siniq chiziqni",
+        "Egri chiziqni",
+        "Poligonal to‘rni",
+        "Poligonal sirtlarni"
+      ]
+    },
+    {
+      "question": "Voksellar berilgan hajmda nimani hosil qiladi?",
+      "answer": [
+        "uch o‘lchovli obyektlarni",
+        "ikki o‘lchovli obyektlarni",
+        "poligonal sirtlarni",
+        "poligonal to‘rni"
+      ]
+    },
+    {
+      "question": "Voksel – bu ...",
+      "answer": [
+        "hajm elementi",
+        "tasvir elementi",
+        "tasvir elementi",
+        "uchlar elementi"
+      ]
+    },
+    {
+      "question": "Karkas odatda nimadan tashkil topadi?",
+      "answer": [
+        "To‘g‘ri chiziq kesimlaridan",
+        "Poligonlardan",
+        "Sirtlardan",
+        "Voksel va piksellardan"
+      ]
+    },
+    {
+      "question": "Bir qator fotosuratlarni harakatlanuvchi tasvir sifatida sharhlash nechanchi yildan boshlab tadqiq etilgan?",
+      "answer": [
+        "1800",
+        "1980",
+        "1880",
+        "1820"
+      ]
+    },
+    {
+      "question": "Sahnada “tutun”ni animatsiyalashtirgan birinchi animator kim bo‘lgan?",
+      "answer": [
+        " Dj Styuart Blekton",
+        "Vinsor Makkey",
+        "Emil Kol",
+        "Jorj Meles"
+      ]
+    },
+    {
+      "question": "Animatsion filmda birinchi marta ovozdan foydalangan animator kim bo‘lgan?",
+      "answer": [
+        "Walt Disney",
+        "Djordj Stallings",
+        "Maks Fleysher",
+        "Pol Terri"
+      ]
+    },
+    {
+      "question": "Yugurayotgan odamning birlamchi harakati to‘g‘ri berilgan javobni aniqlang?",
+      "answer": [
+        "Gavda harakatining oldingaligi",
+        "Gavda harakatining oldingaligi va qo‘lning tebranishi",
+        "Oyoq harakati va boshning chayqalishi",
+        "Oyoq harakati"
+      ]
+    },
+    {
+      "question": "Harakatni tutib olish qanday texnologiya hisoblanadi?",
+      "answer": [
+        "Harakatlarni to‘plashda ishlatiladigan texnologiya",
+        "Animatsion texnologiya",
+        "Harakatlarni to‘plash va qayta ishlash texnologiyasi",
+        "Personajni ikki o‘lchovli aks ettirish texnologiyasi"
+      ]
+    },
+    {
+      "question": "Karikatura ko‘rinishida aks ettirilgan filmlar ishlab chiqishni avtomatlashtirish maqsadida ixtiro qilingan qurilma nomi to‘g‘ri berilgan javobni aniqlang?",
+      "answer": [
+        "rotoskop",
+        "taumatrop",
+        "zoetrop",
+        "ikonaskop"
+      ]
+    },
+    {
+      "question": "Ierarxik zanjirlikda bosh obyektning harakati butun ajdod obyektlarda namoyon bo‘lishi kinematikaning qanday turiga xos?",
+      "answer": [
+        "to‘g‘ri kinematika",
+        "teskari kinematika",
+        "sirg‘anish effektiga xos kinematika ",
+        "mexanik kinematika"
+      ]
+    },
+    {
+      "question": "3ds Max dasturida Border buyrug’ini klaviaturada qaysi tugma orqali tanlaymiz?",
+      "answer": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "question": "Tahrirlanadigan Edge bu?",
+      "answer": [
+        "Qirra",
+        "Nuqta",
+        "Yuza",
+        "Hajm"
+      ]
+    },
+    {
+      "question": "Editable Spline obyekti parametrlarida Cross Insert buyrug‘ining vazifasi qanday?",
+      "answer": [
+        "Ikkita splaynlar kesishmasiga uchlar yaratish imkonini beradi",
+        "Ushbu buyruq tanlangan uchni splaynning bosh nuqtasi etib belgilaydi",
+        "Tanlangan uchni ikkiga bo‘ladi va konturni uzadi",
+        "Tanlangan splaynga boshqasini ulaydi"
+      ]
+    },
+    {
+      "question": "Nima uchun zamonaviy multfilmlarni tayyorlash jarayoni ko'p vaqt va mablag' talab qiladi?",
+      "answer": [
+        "Ish jarayoni juda murakkab",
+        "Jarayon qiziqarli",
+        "Aktyorlarning narxi qimmat va vaqti yetarli emas",
+        "Texnologiyalar yetarli emas"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida render qilish buyrug'i qaysi tugma orqali amalga oshiriladi?",
+      "answer": [
+        "F9",
+        "F8",
+        "Alt+Q",
+        "F12"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektdan nusxa olish klaviaturaning qaysi tugmasi yordamida amalga oshiriladi?",
+      "answer": [
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + H",
+        "Ctrl + K"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida Autokey funksiyasini faollashtirish tezkor tugmasi qaysi?",
+      "answer": [
+        "N",
+        "M",
+        "H",
+        "S"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida P-qisqa tugmasining vazifasi nima?",
+      "answer": [
+        "Umumiy (3D) ko‘rinishni ko‘rsatadi",
+        "Yuqori tomondan ko‘rsatadi",
+        "Chap tomondan ko‘rsatadi",
+        "O‘ng tomondan ko‘rsatadi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida T-qisqa tugmasining vazifasi nima?",
+      "answer": [
+        "Yuqori tomondan ko‘rsatadi",
+        "Pastki tomondan ko‘rsatadi",
+        "Chap tomondan ko‘rsatadi",
+        "O‘ng tomondan ko‘rsatadi"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida C – qisqa tugmasining vazifasi nima?",
+      "answer": [
+        "Sahnadagi kamera rejimini faollashtiradi",
+        "Sahnadagi quyosh rejimini faollashtiradi",
+        "Sahnadagi chiroqni faollashtiradi",
+        "Magnitni faollashtiradi"
+      ]
+    },
+    {
+      "question": "Editable Poly elementini necha xil hususiyati bor?",
+      "answer": [
+        "5",
+        "4",
+        "3",
+        "8"
+      ]
+    },
+    {
+      "question": "Editable mesh obyektlarida Edge bu",
+      "answer": [
+        "Qirra",
+        "Nuqta",
+        "Yuza",
+        "Hajm"
+      ]
+    },
+    {
+      "question": "Editable mesh obyektlarida Vertex bu…",
+      "answer": [
+        "Uch",
+        "Qirra",
+        "Yuza",
+        "Hajm"
+      ]
+    },
+    {
+      "question": "Rotoskop qurilmasi nechanchi yilda ixtiro qilingan?",
+      "answer": [
+        "1915 yilda",
+        "1930 yilda",
+        "1895 yilda",
+        "1924 yilda"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektni bo‘yashda Cellular effekti qanday vazifa bajaradi?",
+      "answer": [
+        "Katak gulli bezaklar hosil qilish",
+        "Bir jinsli bo‘lmagan yuzani hosil qilish",
+        "Ikki xil rangdagi uyurmalanishni hosil qilish",
+        "Uch xil ranglar o‘rtasida silliq o‘tishni hosil qilish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektni bo‘yashda Dent effekti qanday vazifa bajaradi?",
+      "answer": [
+        "Bir jinsli bo‘lmagan yuzani hosil qilish",
+        "Ikki xil rangdagi uyurmalanishni hosil qilish",
+        "Uch xil ranglar o‘rtasida silliq o‘tishni hosil qilish",
+        "Katak gulli bezaklar hosil qilish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektni bo‘yashda Swirl effekti qanday vazifa bajaradi?",
+      "answer": [
+        "Ikki xil rangdagi uyurmalanishni hosil qilish",
+        "Bir jinsli bo‘lmagan yuzani hosil qilish",
+        "Uch xil ranglar o‘rtasida silliq o‘tishni hosil qilish",
+        "Katak gulli bezaklar hosil qilish"
+      ]
+    },
+    {
+      "question": "3Ds Max dasturida obyektni bo‘yashda Gradient effekti qanday vazifa bajaradi?",
+      "answer": [
+        "Uch xil ranglar o‘rtasida silliq o‘tishni hosil qilish",
+        "Bir jinsli bo‘lmagan yuzani hosil qilish",
+        "Obyektga bo‘laklarning turli variantlarini joylashtirish",
+        "Katak gulli bezaklar hosil qilish"
+      ]
+    }
+  ]
+}
